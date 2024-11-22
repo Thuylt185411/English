@@ -35,12 +35,29 @@
 ---
 
 # Phrases and Collocations
-- **attention**: pay attention (to sth/sb); attract (sb's) attention; draw (sb's) attention to sth  
-- **break**: have/take a break (from sth/doing); lunch break; tea break; commercial break; give sb a break  
-- **discussion**: have a discussion (with sb) about/on sth/doing  
-- **exam**: take/do/have/pass/fail an exam; sit (for) an exam  
-- **homework**: do your homework; have homework (to do)  
-- **idea**: question an idea; have an idea; bright idea; have no idea (about)  
+- **attention**: 
+- pay attention (to sth/sb); 
+- attract (sb's) attention; 
+- draw (sb's) attention to sth  
+- **break**: 
+- have/take a break (from sth/doing); 
+- lunch break; 
+- tea break; 
+- commercial break; 
+- give sb a break  
+- **discussion**: 
+- have a discussion (with sb) about/on sth/doing  
+- **exam**: 
+- take/do/have/pass/fail an exam; 
+- sit (for) an exam  
+- **homework**: 
+- do your homework; 
+- have homework (to do)  
+- **idea**: 
+- question an idea; 
+- have an idea; 
+- bright idea; 
+- have no idea (about)  
 - **learn**: have a lot to learn about sth/doing; learn (how) to do  
 - **lesson**: go to/have a lesson; double lesson; learn a/your lesson; teach sb a lesson  
 - **mind**: make up your mind (about sth/doing); bear (sth) in mind; in two minds about sth/doing; change your mind (about sth/doing); cross your mind; to my mind; (not) mind if  
@@ -70,23 +87,58 @@
 ---
 
 # Word Formation
-- **academy**: academic, academically  
-- **attend**: attention, (in)attentive(ly), attendance, attendant  
-- **behave**: behaviour  
-- **certify**: certificate, certified  
-- **educate**: education, educator, educational(ly)  
-- **fail**: failure, failing  
-- **improve**: improvement, improved  
-- **intense**: intensity, intensify, intensely  
-- **literate**: illiterate, (il)literacy, literature  
-- **reason**: (un)reasonable, (un)reasonably, reasoning  
-- **revise**: revision, revised  
-- **scholar**: scholarship, scholarly, scholastic  
-- **solve**: solution, (un)solvable  
-- **study**: student, studies, studious  
-- **teach**: teacher, taught  
-- **think**: thought, (un)thinkable, thoughtful, thoughtless  
-- **understand**: (mis)understanding, (mis)understood, understandable, understandably  
+| Word            | Meaning                                             | Sentence                                               |
+|-----------------|-----------------------------------------------------|-------------------------------------------------------|
+| **academy**     | A place of study or training                        | *She joined an academy to improve her skills.*        |
+| **academic**    | Related to education or scholarship                 | *He excelled in academic subjects like math.*         |
+| **academically**| In a way that relates to education                  | *She performed academically well this year.*          |
+| **attend**      | To go to or be present at an event                  | *I will attend the meeting tomorrow.*                 |
+| **attention**   | The act of focusing or listening                    | *Pay attention to the instructions carefully.*        |
+| **attentive**   | Showing care or focus                               | *He is always attentive in class.*                    |
+| **attentively** | In a focused or caring manner                       | *She listened attentively to the speaker.*            |
+| **attendance**  | The act of being present                            | *Good attendance is important for success.*           |
+| **attendant**   | A person who provides service or assistance         | *The flight attendant helped the passengers.*         |
+| **behave**      | To act in a particular way                          | *Children should behave well in public places.*       |
+| **behaviour**   | The way someone acts                                | *Her behaviour in class was excellent.*               |
+| **certify**     | To confirm something officially                     | *The documents were certified by a notary.*           |
+| **certificate** | An official document of achievement                 | *She received a certificate for completing the course.* |
+| **certified**   | Officially recognized or authorized                 | *He is a certified electrician.*                      |
+| **educate**     | To teach or instruct                                | *Teachers educate students in schools.*               |
+| **education**   | The process of gaining knowledge                    | *Education is a key to success.*                      |
+| **educator**    | A person who provides education                     | *She is a passionate educator and loves her job.*     |
+| **educational** | Related to learning or teaching                     | *They organized an educational trip for students.*    |
+| **educationally**| In a way related to education                      | *The program is educationally enriching for children.*|
+| **fail**        | To not succeed in doing something                   | *He failed to complete the project on time.*          |
+| **failure**     | Lack of success                                     | *Failure is not the end but a step to success.*       |
+| **failing**     | A weakness or defect                                | *Despite his failings, he is a kind person.*          |
+| **improve**     | To make something better                            | *She improved her writing skills by practicing daily.*|
+| **improvement** | The process of getting better                       | *There has been a noticeable improvement in her grades.* |
+| **improved**    | Made better                                         | *The newly improved system is faster and efficient.*  |
+| **intense**     | Very strong or extreme                              | *The heat was intense during the summer.*             |
+| **intensity**   | The quality of being intense                        | *The intensity of his emotions surprised everyone.*   |
+| **intensify**   | To make something stronger or more extreme          | *The storm intensified as the night went on.*         |
+| **intensely**   | In an intense manner                                | *She focused intensely on solving the problem.*       |
+| **literate**    | Able to read and write                              | *He became literate after attending night school.*    |
+| **illiterate**  | Unable to read or write                             | *Many efforts are made to help illiterate adults.*    |
+| **literacy**    | The ability to read and write                       | *Literacy rates have improved in recent years.*       |
+| **literature**  | Written works, especially those considered artistic | *He loves reading classic literature.*                |
+| **reason**      | A cause or explanation                              | *The reason for her absence was illness.*             |
+| **reasonable**  | Fair and sensible                                   | *His explanation seemed reasonable.*                  |
+| **reasonably**  | In a fair or sensible manner                        | *The price is reasonably affordable.*                 |
+| **reasoning**   | The process of thinking logically                   | *Her reasoning was clear and convincing.*             |
+| **revise**      | To change or update something                       | *She revised her essay before submitting it.*         |
+| **revision**    | The act of reviewing or changing something          | *He spent the weekend doing revision for the exam.*   |
+| **revised**     | Updated or changed                                  | *The revised version of the book was published.*      |
+| **scholar**     | A person who studies and is knowledgeable           | *He is a renowned scholar in history.*                |
+| **scholarship** | Financial aid for education                         | *She received a scholarship to study abroad.*         |
+| **scholarly**   | Related to academic study                           | *The paper was written in a scholarly manner.*        |
+| **scholastic**  | Related to schools or education                     | *The awards are given for scholastic achievements.*   |
+| **solve**       | To find a solution                                  | *She solved the puzzle in no time.*                   |
+| **solution**    | The answer to a problem                             | *We need a solution to this issue immediately.*       |
+| **solvable**    | Capable of being solved                             | *This problem is difficult but solvable.*             |
+| **study**       | To learn about something                            | *He studies every night for his exams.*               |
+| **student**     | A person who is learning                            | *The students were excited about the field trip.*     |
+
 
 ---
 
