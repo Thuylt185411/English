@@ -97,6 +97,7 @@
 **suitable for sth/doing** : appropriate for : This book is suitable for children.  
 **suitable to do** : appropriate to perform : These shoes are suitable to wear for hiking.  
 **congratulate sb on sth/doing** : praise someone for : We congratulated him on winning the competition.  
+
 ### Word Formation
 
 **academy** : a place of learning or training : The academy offers courses in arts and sciences.  
@@ -171,47 +172,45 @@
 **(un)thinkable** : (not) imaginable : It’s unthinkable to ignore safety rules.  
 **thoughtful** : showing consideration : That was a thoughtful gesture.  
 **thoughtless** : not showing consideration : His comment was thoughtless and rude.  
-
 **understand** : to comprehend something : I understand the instructions now.  
 **(mis)understanding** : correct/incorrect comprehension : There was a misunderstanding about the schedule.  
 **(mis)understood** : correctly/incorrectly comprehended : She felt misunderstood by her friends.  
 **understandable** : easy to comprehend : The instructions were clear and understandable.  
 **understandably** : in a way that can be understood : She was understandably upset after the incident.  
----
-
-# Unit 18 Vocabulary
 
 
-**take** (v): to perform an action: I decided to take the exam, even though I knew I was going to fail.
-**pass** (v): to be successful in an examination or test by achieving a satisfactory standard: Do you think you'll pass?
-**read** (v): to look at and understand words in a letter, book, newspaper, etc.: I read a few chapters every night.
-**study** (v): to do work such as reading and homework: You need to study hard if you want to pass.
-**test** (n): a set of written or spoken questions that is used for finding out how much someone knows about a subject: Did you get a good mark in your physics test?
-**exam** (n): an important test of your knowledge, especially one that you take at school or university: I'm taking the exam in June.
-**primary** (adj): relating to the education of children between the ages of about five and eleven: I really didn't want to leave my primary school.
-**secondary** (adj): relating to the education of children between the ages of 11 and 16 or 18: Once Ian went to secondary school, he really developed a lot of self-confidence.
-**high [school]** (adj): in the UK, a school for children between the ages of 11 and 18; in the US, a school for children between the ages of 14 and 18: I hated high school because everyone was worried about being popular.
-**colleague** (n): someone who works in the same organisation or department as you: Friends and colleagues will remember him with affection.
-**classmate** (n): someone who is in your class at school: I get on well with all my classmates.
-**prefect** (n): in some schools in the UK, an older student who controls the activities of younger students and helps them to obey the rules: At our school, the headmaster chooses the prefects at the start of each academic year.
-**pupil** (n): someone who goes to school or who has lessons in a particular subject: All the pupils stood up as the head teacher entered the room.
-**student** (n): someone who goes to a university, college or school: Jennifer is one of my best students.
-**qualifications** (n): something such as a degree or a diploma that you get when you successfully finish a course of study: Simon left school with no qualifications.
-**qualities** (n): positive features of a person's character: What qualities do you most admire in others?
-**count** (v): to calculate how many people or things there are in a group: All the votes have been counted.
-**measure** (v): to find the exact size, amount, speed or rate of something: We measured from the back of the house to the fence.
-**degree** (n): the course of study at a university, or the qualification that you get after completing the course: She's doing a degree at Exeter University.
-**certificate** (n): an official document that proves you have passed an examination or have successfully completed a course: Doctors often put their certificates up in their offices to show that they are qualified.
-**results** (n): the mark that a student gets in an examination: You should get your exam results next week.
-**speak** (v): to be able to talk in a particular language: Do you speak Chinese?
-**talk** (v): to speak, or to have a conversation: Can their baby talk yet?
-**lesson** (n): a period of time in which students are taught about a subject in school: Don't forget to bring your books to Monday's lesson.
-**subject** (n): something that you learn or teach in a school, for example English, mathematics, or biology: I prefer science subjects, like physics and biology, to arts subjects.
-**achieve** (v): to succeed in doing or having something: We have achieved what we set out to do.
-**reach** (v): to get to a particular point in time, or to a particular stage in a process: The children have reached the age when they want more privacy.
-**task** (n): something that you have to do, often something that is difficult or unpleasant: She began the difficult task of organising the information.
-**effort** (n): physical or mental energy needed to do something: Writing a book takes a lot of time and effort.
-**know** (v): to be familiar with someone or something, for example because you have met someone before or been to a place before: Do you know Terry Davis?
-**recognise** (v): to know someone or something because you have seen, heard, or met them before: I recognised the house from your description.
-**teach** (v): to help students to learn something in a school, college or university by giving lessons: He teaches children with learning difficulties.
-**learn** (v): to gain knowledge or experience of something, for example by being taught: What did you learn at school today?
+### Unit 18 Vocabulary
+
+**take**: to perform an action: I decided to take the exam, even though I knew I was going to fail.  
+**pass**: to be successful in an examination or test by achieving a satisfactory standard: Do you think you'll pass?  
+**read**: to look at and understand words in a letter, book, newspaper, etc.: I read a few chapters every night.  
+**study**: to do work such as reading and homework: You need to study hard if you want to pass.  
+**test** : a set of written or spoken questions that is used for finding out how much someone knows about a subject: Did you get a good mark in your physics test?  
+**exam** : an important test of your knowledge, especially one that you take at school or university: I'm taking the exam in June.  
+**primary** : relating to the education of children between the ages of about five and eleven: I really didn't want to leave my primary school.  
+**secondary** : relating to the education of children between the ages of 11 and 16 or 18: Once Ian went to secondary school, he really developed a lot of self-confidence.  
+**high [school]** : in the UK, a school for children between the ages of 11 and 18; in the US, a school for children between the ages of 14 and 18: I hated high school because everyone was worried about being popular.  
+**colleague** : someone who works in the same organisation or department as you: Friends and colleagues will remember him with affection.  
+**classmate** : someone who is in your class at school: I get on well with all my classmates.  
+**prefect** : in some schools in the UK, an older student who controls the activities of younger students and helps them to obey the rules: At our school, the headmaster chooses the prefects at the start of each academic year.  
+**pupil** : someone who goes to school or who has lessons in a particular subject: All the pupils stood up as the head teacher entered the room.  
+**student** : someone who goes to a university, college or school: Jennifer is one of my best students.  
+**qualifications** : something such as a degree or a diploma that you get when you successfully finish a course of study: Simon left school with no qualifications.  
+**qualities** : positive features of a person's character: What qualities do you most admire in others?  
+**count**: to calculate how many people or things there are in a group: All the votes have been counted.  
+**measure**: to find the exact size, amount, speed or rate of something: We measured from the back of the house to the fence.  
+**degree** : the course of study at a university, or the qualification that you get after completing the course: She's doing a degree at Exeter University.  
+**certificate** : an official document that proves you have passed an examination or have successfully completed a course: Doctors often put their certificates up in their offices to show that they are qualified.  
+**results** : the mark that a student gets in an examination: You should get your exam results next week.  
+**speak**: to be able to talk in a particular language: Do you speak Chinese?  
+**talk**: to speak, or to have a conversation: Can their baby talk yet?  
+**lesson** : a period of time in which students are taught about a subject in school: Don't forget to bring your books to Monday's lesson.  
+**subject** : something that you learn or teach in a school, for example English, mathematics, or biology: I prefer science subjects, like physics and biology, to arts subjects.  
+**achieve**: to succeed in doing or having something: We have achieved what we set out to do.  
+**reach**: to get to a particular point in time, or to a particular stage in a process: The children have reached the age when they want more privacy.  
+**task** : something that you have to do, often something that is difficult or unpleasant: She began the difficult task of organising the information.  
+**effort** : physical or mental energy needed to do something: Writing a book takes a lot of time and effort.  
+**know**: to be familiar with someone or something, for example because you have met someone before or been to a place before: Do you know Terry Davis?  
+**recognise**: to know someone or something because you have seen, heard, or met them before: I recognised the house from your description.  
+**teach**: to help students to learn something in a school, college or university by giving lessons: He teaches children with learning difficulties.  
+**learn**: to gain knowledge or experience of something, for example by being taught: What did you learn at school today?
