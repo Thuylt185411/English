@@ -254,5 +254,87 @@ freezer : a machine for keeping things very cold : Put the meat in the freezer t
 
 put down to : suggest that something is the result of : I put his bad mood down to lack of sleep.
 
+put out : make something stop burning : Please put out the candles before leaving the room.
 
+do up : repair, paint, or improve : They are doing up their house before selling it.
 
+face up to : accept something and try to deal with it : You need to face up to your responsibilities.
+
+lose control : to no longer have power over something : He lost control of his bike on the slippery road.
+
+take control : to gain power over something : The teacher took control of the noisy class.
+
+have control : to already have power over something : She has control of the company’s finances. 
+
+in the end : finally, after a long time : In the end, everything turned out fine
+
+at the end : at the final point of something : At the end of the book, the hero wins
+
+come to an end : to finish : The meeting came to an end after two hours.
+
+on the floor : resting on the flat surface in a room : I found my keys on the floor.
+
+on the ground floor : the first level of a building : Their office is on the ground floor.
+
+make a fuss : to complain or be upset about something : He made a fuss about the wrong order.
+
+as long as : for the same amount of time : Stay as long as you like.
+
+take a long time : to last much time : It takes a long time to bake a cake.
+
+look for : to search for something : I’m looking for my phone.
+
+in a mess : in an untidy or disorganized state : His desk is always in a mess.
+
+---
+take responsibility : to accept a duty : He took responsibility for his actions.
+
+a rain shower : a short burst of rain : We were caught in a rain shower while walking.
+
+catch sight : to see something briefly : I caught sight of her in the crowd.
+
+lose sight : to no longer see something : We lost sight of the boat as it sailed away.
+
+ in sight : able to be seen : The finish line is finally in sight.
+
+at first sight : immediately upon seeing something : It was love at first sight.
+
+a waste of time : something not worth doing : Arguing about this is a waste of time.
+
+under the weather : feeling unwell : I’m feeling a bit under the weather today.
+
+all over the world : everywhere on earth : This dish is popular all over the world.
+
+ throughout the world : in every part of the world : English is spoken throughout the world.
+
+aware of something : knowing or understanding something specific : I wasn’t aware of his plans to leave.
+
+expect something/someone (to do) : to believe that something or someone will do something : We expect the train to leave at 8 PM.
+
+expect that : to believe something will be true : I expect that it will rain today.
+
+hard to do : something that is difficult to accomplish : It’s hard to learn a new language.
+
+hard doing : challenging when in progress : It’s hard doing the same job every day.
+
+disappointed with/by something : feeling let down due to something : She was disappointed by the delay. 
+
+disappointed in someone : feeling let down by a person : I am disappointed in him for not trying harder.
+
+short on something : not having much of something : We are short on supplies this week.
+
+except (for) something/doing : excluding one item or action : The restaurant is open every day except for Mondays.
+
+glance at something/someone : to take a brief look at something or someone : He glanced at his phone before the class.
+---
+warn someone about/against something/doing : to alert someone to avoid danger : The doctor warned him against smoking. 
+
+warn someone of something : to inform someone about something potentially harmful : They warned us of the storm coming. 
+
+warn someone not to do something : to tell someone to avoid an action : She warned me not to go out late at night. 
+
+lowness : the quality of being low : The lowness of the sun in winter creates long shadows.
+
+giúp tôi trả kết quả các thông tin về từ/ cụm từ
+word/phrase | Sentence (which easy, suitable for newbie and meaning) | meaning of word | IPA of Word | word_type | word_level| moreinfo | example 
+at least | at least he wasn’t hurt | used to emphasize that something is good in a bad situation: |  (điền cho tôi) | idiom| B1 |  | I can handle it – at least, I think so. - It's a small house but at least there's a garden.
