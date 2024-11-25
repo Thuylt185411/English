@@ -258,5 +258,82 @@ show (a)round: take somebody on a tour of a place : She showed me around the fas
 
 tear up: If you tear up an agreement, you refuse to accept it or be controlled by it any more:
 
+modern art: artistic works made in recent times : The gallery is full of modern art pieces.
+
+art exhibition: an event to display art : There’s an art exhibition at the museum this weekend.
+
+pay somebody a compliment: to praise someone : He paid her a compliment on her new hairstyle.
+
+compliment somebody on something: to say something nice about something someone has : She complimented me on my new dress.
+
+be/set an example: to act in a way that others can follow : Teachers should set an example for their students.
+
+an example of: something that shows the typical qualities of something : This dress is an example of modern fashion.
+
+follow someone's example: to do the same as someone else : She followed her sister's example and started wearing vintage clothes.
+
+follow fashion: to keep up with the latest styles : She loves to follow fashion and always looks trendy.
+
+cut/brush somebody's hair: to trim or tidy someone's hair : He brushed his hair before the party.
+
+have/get a new hairdo/hairstyle: to style your hair differently : I got a new hairstyle for the wedding.
+
+have a haircut: to trim your hair : He needs to have a haircut soon.
+
+let your hair down: to relax and have fun : After the show, we all let our hair down at the party.
+
+put on/apply/wear/take off make-up: to use or remove make-up : She put on make-up before the dinner.
+
+follow a pattern: to do things in the same way : The tailor followed a pattern to make the dress.
+
+a checked/striped/plain pattern: a specific design style : I love this checked pattern on your shirt.
+
+in style: fashionable or trendy : These boots are back in style this season.
+
+be/go out of style: no longer fashionable : That old jacket has gone out of style.
+
+do something/go somewhere in style: to do something or go somewhere in a fashionable way : She arrived at the party in style wearing a red dress.
+
+have/show good/bad taste (in something): to have a good/bad sense of style : She showed good taste in choosing her outfit.
+
+in good/bad taste: appropriate or not appropriate : That bright shirt is definitely in good taste.
+
+a trend in something: a popular style in a particular area : There’s a trend in bold prints this year.
+
+follow/set a trend: to adopt/start a new style : She set a trend by wearing colorful scarves.
+
+advise somebody to do: to suggest that someone do something : She advised me to buy the dress.
+
+advise on/about something: to give guidance about something : He advised me on how to match colors.
+
+criticise somebody (for something/doing): to say someone is wrong for doing something : They criticised her for wearing a casual outfit to the event.
+
+insist on something/doing: to firmly demand something : He insisted on wearing his favorite shoes to the show.
+
+plenty more something: even more of something : There are plenty more accessories to choose from.
+
+plenty to do: many things to do : We have plenty to do before the fashion show starts.
+
+prepare somebody for something: to help someone get ready : The stylist prepared the model for the photo shoot.
+
+proud of something/somebody/doing: happy with someone's or your own achievement : He is proud of designing such a beautiful dress.
+
+proud to do: happy to do something : She is proud to showcase her work at the event.
+
+refer to something: to mention or talk about something : The article referred to the latest fashion trends.
+
+refer somebody to something: to direct someone to a source of information : The designer referred me to a shop for better fabrics.
+
+it seems that: it appears that something is true : It seems that bright colors are in style this season.
+
+stare at something/somebody: to look at something or someone intensely : He couldn’t stop staring at the designer's new collection.
+
+use something to do: to apply something to perform an action : They used silk to make the evening gowns.
+
+useful to somebody: helpful or valuable to someone : This guide is useful to designers who are starting out.
+
+useful for something/doing: helpful in achieving something : These tools are useful for creating patterns on clothes.
+
+
 
   
