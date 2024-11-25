@@ -105,3 +105,13 @@
 - **new (adj)**: recently made, invented, or developed : They are going to build a new office block here.  
 - **modern (adj)**: relating to or belonging to the present time : Modern offices are usually full of computers.  
 
+- **look (n)**: the appearance that someone or something has : Let us create a stylish modern look for your home.  
+- **appearance (n)**: the way that someone or something looks : The twins are almost identical in appearance.  
+- **supply (v)**: to provide someone or something with something that they need or want : Two huge generators supply power to farms in the area.  
+- **produce (v)**: to make or grow something : We are now producing the same quantity of goods with far fewer workers.  
+- **glimpse (v)**: to see someone or something for a moment or not completely : I glimpsed a strange man through the window, and then he was gone.  
+- **glance (v)**: to look somewhere quickly and then look away : "I must go," Claudia said, glancing at her watch.  
+- **average (adj)**: the typical amount or level : Unemployment here is twice the national average.  
+- **everyday (adj)**: very common or completely normal : We all need a friend to help us with everyday problems.  
+
+

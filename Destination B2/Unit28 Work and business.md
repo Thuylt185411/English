@@ -89,3 +89,17 @@
 - **responsible**: irresponsible(ly), (ir)responsibility  
 - **supervise**: supervision, supervisor  
 - **work**: working, (un)workable, worker, works  
+
+### Unit 28
+
+- **employer (n)**: a person or organization that pays workers to work for them : The factory is the largest single employer in the area.  
+- **employee (n)**: someone who is paid regularly to work for a person or organization : There are six part-time employees working here.  
+- **staff (n)**: the people who work for a particular company, organization, or institution : The embassy employs around 50 people on its full-time staff.  
+- **job (n)**: work that you do regularly to earn money : Andy got a holiday job at a factory in Bristol.  
+- **work (n)**: a job that you are paid to do : It’s not easy to find work.  
+- **career (n)**: a job or profession that you work at for some time : Rosen had decided on an academic career.  
+- **earn (v)**: to receive money for work that you do : Most people here earn about £30,000 a year.  
+- **win (v)**: to get something as a prize for defeating others or because you are lucky : He won £4,000 in the lottery.  
+- **gain (v)**: to get more of something, usually as a result of a gradual process : I’ve gained a lot of weight this winter.  
+- **raise (n)**: an increase in the amount that you are paid for work : Why don't you ask for a raise?  
+- **rise (n)**: an increase in size, amount, quality, or strength : The proposed tax rise was not unexpected.  
