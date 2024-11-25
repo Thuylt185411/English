@@ -242,7 +242,106 @@
 - **rise (n)**: an increase in size, amount, quality, or strength : The proposed tax rise was not unexpected.  
 
 -    
+OTHER
+
+bring out: produce and start to sell a new product : The company brought out a new clothing line this season.
+
+stand in for: do somebody’s job for them while they are not available : Can you stand in for me at the meeting tomorrow?
+
+see to: deal with : I’ll see to the delivery of the materials today.
+
+set to: start doing something in a determined or enthusiastic way : They set to work on the new business plan immediately.
+
+set out: start working on something in order to achieve an aim : She set out to create a unique brand identity for her store.
+
+come to/reach (an) agreement (on/about something): to decide on something together : They came to an agreement about the new schedule.
+
+in agreement (on/about/with something): sharing the same opinion : We are in agreement on the budget changes.
+
+make an arrangement (with/for somebody) (to do): to plan something with someone : I made an arrangement with my boss to take Friday off.
+
+have/make a complaint (about something) (to somebody): to express dissatisfaction about something : She made a complaint to the manager about the service.
+
+letter of complaint (to somebody) (about something): a written statement of dissatisfaction : I wrote a letter of complaint to the company about the damaged product.
+
+day by day: gradually or slowly as time passes : He is improving day by day at his new job.
+
+the other/next day: recently or in the near future : I saw him at the office the other day.
+
+come to/reach/make a decision (about something): to finally decide on something : They reached a decision about the new project.
+
+do one's duty: to fulfill your responsibilities : He stayed late to do his duty at work.
+
+a sense of duty: a feeling of responsibility : She worked overtime out of a sense of duty.
+
+have a duty to somebody/to do something: to be responsible for something : Managers have a duty to guide their teams.
+
+make an effort (to do): to try hard to achieve something : I’ll make an effort to finish the report today.
+
+put effort into something/doing: to work hard on something : He put a lot of effort into organizing the event.
+
+have an experience: to encounter or go through something : She had an exciting experience during her internship.
+
+have/gain/get experience in/of something/doing: to learn or improve skills in an area : He gained experience in managing projects while working abroad.
+
+experienced in/at something/doing: having skill or knowledge in a specific area : She is experienced in managing large projects.
+
+put/keep somebody on hold
+
+have/take/express an interest in something/doing: to show that you care about something : He expressed an interest in joining the team.
+
+in your interest to do: something that benefits you : It’s in your interest to complete the project on time.
+
+earn/get/pay interest: money earned or paid for using money : She earns interest on her savings every month.
+
+have/go to/attend an interview: to take part in a formal meeting for a job : I’m going to an interview tomorrow for a new role.
+
+do a job: to perform work : She is doing a great job on the project.
+
+have a job (to do): to be responsible for a task or duty : I have a job to finish before the deadline.
+
+take/get a job: to start working somewhere : He took a job as a waiter last week.
+
+apply for a job: to officially ask for a job : She applied for a job at the new company.
+
+in a job: working in a specific role : She has been in her job for five years.
+
+do some work: to complete tasks or responsibilities : I need to do some work before the meeting.
+
+have work to do: to have tasks that need to be completed : I have a lot of work to do today.
+
+place of work: the location where you work : His place of work is in the city center.
+
+absent from something: not present in a place : He was absent from the meeting this morning.
+
+apply in writing: to make a formal request by writing a letter or email : Please apply in writing for the position.
+
+attach something to something: to fix one thing to another : Attach the document to the email before sending it.
+
+begin doing/to do something: to start an activity : She began working on the project yesterday.
+
+begin by doing: to start with a specific action : He began by introducing himself to the team.
+
+good for somebody (to do something): beneficial or helpful : It’s good for you to learn new skills at work.
+
+good at something/doing: skilled or talented in something : He is good at solving problems quickly.
+
+good to somebody: kind or nice to someone : The supervisor has always been good to the employees.
+
+responsible for something/doing: in charge of something : He is responsible for organizing the event.
+
+specialise in something/doing: to focus on a particular area of work : The company specialises in designing software for schools.
+
+work as/at/in something: to have a specific job or role : He works as a sales manager at a tech company.
+
+work for somebody: to be employed by someone : I work for a global organization
 
 
+- **effectively**: used to describe the real result of a situation : His wife left him, so he effectively raised the children on his own.  
+- **effectively**: in reality or practically speaking : Effectively, we have to start over from scratch.  
+- **industrial**: very large in size or amount : They consumed industrial quantities of coffee during the project.  
+- **industrial**: used to emphasize something is excessive or extreme : She wore industrial amounts of black eyeliner to the party.  
+- **machinery**: the structure and systems of an organization or process : The new policy will streamline the machinery of government.  
+- **machinery**: organized systems for achieving something : Political machinery often slows down decision-making processes.  
 
--   
+
