@@ -380,3 +380,27 @@ B – I think her motive was to improve her resume.
 **Conversation:**  
 A – Is your room always this clean  
 B – Yes, I like to keep everything neatly organized.  
+
+
+Word: Alphabetical
+Cambridge Meaning: Arranged in the order of the letters of the alphabet.
+Sentence: The books were organized in alphabetical order on the shelf.
+Conversation:
+A – How are the files sorted
+B – They are in alphabetical order, so it's easy to find them.
+
+Means to an End
+Cambridge Meaning: Something done as a way to achieve a goal, not for its own sake.
+Sentence: She viewed her job as a means to an end, helping her save money for travel.
+Conversation:
+A – Do you enjoy your current job
+B – Not really, it’s just a means to an end for now.
+
+ In light of
+Contextual Meaning: Because of or due to a particular situation.
+Cambridge Meaning: Because of a particular situation or fact.
+Sentence: In light of the recent events, we decided to delay the project.
+Conversation:
+A – Should we still go ahead with the plan
+B – In light of the new information, I think we should reconsider
+

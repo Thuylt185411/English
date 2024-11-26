@@ -390,13 +390,13 @@ B – A skilled investigator is leading the investigation
 
 ---
 
-### Word: Judgement  
+### Word: Judgment  
 **Contextual Meaning:** The ability to make decisions or form opinions based on reasoning.  
 **Cambridge Meaning:** The ability to make decisions or form opinions after considering information.  
-**Sentence:** His judgement in the case was highly praised by his peers.  
+**Sentence:** His judgment in the case was highly praised by his peers.  
 **Conversation:**  
 A – How did the judge decide the case  
-B – The judgement was fair based on the evidence presented
+B – The judgment was fair based on the evidence presented
 
 ---
 
