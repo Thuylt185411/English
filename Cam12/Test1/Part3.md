@@ -379,3 +379,231 @@ B – I intend to learn a new language
 **Conversation:**  
 A – What does the new office look like  
 B – The interior is very spacious and bright
+
+### Word: Investigator  
+**Contextual Meaning:** A person who examines or looks into something, typically a crime or incident.  
+**Cambridge Meaning:** A person who investigates something, especially a crime.  
+**Sentence:** The investigator carefully examined the scene for evidence.  
+**Conversation:**  
+A – Who is handling the case  
+B – A skilled investigator is leading the investigation
+
+---
+
+### Word: Judgement  
+**Contextual Meaning:** The ability to make decisions or form opinions based on reasoning.  
+**Cambridge Meaning:** The ability to make decisions or form opinions after considering information.  
+**Sentence:** His judgement in the case was highly praised by his peers.  
+**Conversation:**  
+A – How did the judge decide the case  
+B – The judgement was fair based on the evidence presented
+
+---
+
+### Word: Motto  
+**Contextual Meaning:** A short phrase or slogan that expresses a belief or guiding principle.  
+**Cambridge Meaning:** A short sentence or phrase that expresses the beliefs or ideals of an individual or organization.  
+**Sentence:** The company’s motto is "Innovation and Integrity."  
+**Conversation:**  
+A – What is your school’s motto  
+B – Our motto is "Learning for Life"
+
+---
+
+### Word: Noble  
+**Contextual Meaning:** Describing a person who has high moral qualities, or a thing that is admirable.  
+**Cambridge Meaning:** Having or showing high moral qualities.  
+**Sentence:** He was known for his noble actions, always helping those in need.  
+**Conversation:**  
+A – Why is he so respected  
+B – He is a noble person who always helps others
+
+---
+
+### Word: Occupation  
+**Contextual Meaning:** A person’s job or profession.  
+**Cambridge Meaning:** A person’s job or profession.  
+**Sentence:** Her occupation as a teacher gives her a sense of purpose.  
+**Conversation:**  
+A – What’s your occupation  
+B – I’m a graphic designer at a marketing firm
+
+---
+
+### Word: Philosopher  
+**Contextual Meaning:** A person who studies or teaches philosophy, often seeking wisdom and knowledge.  
+**Cambridge Meaning:** A person who studies or teaches philosophy.  
+**Sentence:** The philosopher’s writings have influenced many generations.  
+**Conversation:**  
+A – Who wrote this book  
+B – It was written by a well-known philosopher
+
+---
+
+### Word: Presumably  
+**Contextual Meaning:** Used to say that something is likely, based on available information.  
+**Cambridge Meaning:** Used to say that something seems likely or probable.  
+**Sentence:** He is presumably at work right now, as he hasn’t replied to my message.  
+**Conversation:**  
+A – Is she coming to the meeting  
+B – Presumably, she should be here soon
+
+---
+
+### Word: Principled  
+**Contextual Meaning:** Having strong moral values.  
+**Cambridge Meaning:** Following a set of strong moral or ethical standards.  
+**Sentence:** The company is known for its principled approach to business.  
+**Conversation:**  
+A – How do you feel about his leadership style  
+B – He’s very principled and always makes ethical decisions
+
+---
+
+### Word: Professionalization  
+**Contextual Meaning:** The process of making an activity or occupation more professional.  
+**Cambridge Meaning:** The process of making something more professional.  
+**Sentence:** The professionalization of the medical field has led to better patient care.  
+**Conversation:**  
+A – Why is this industry growing  
+B – There’s been a lot of professionalization in recent years
+
+---
+
+### Word: Proposal  
+**Contextual Meaning:** A plan or suggestion, especially one put forward for consideration.  
+**Cambridge Meaning:** A suggestion or plan for something, especially one presented for discussion.  
+**Sentence:** She made a proposal to improve the office environment.  
+**Conversation:**  
+A – Do you have a plan for the project  
+B – Yes, I have a proposal to improve our workflow
+
+---
+
+### Word: Prosecute  
+**Contextual Meaning:** To formally charge someone with a crime and seek a legal judgment against them.  
+**Cambridge Meaning:** To officially charge someone with a crime and try to prove they are guilty in court.  
+**Sentence:** The lawyer decided to prosecute the case after gathering enough evidence.  
+**Conversation:**  
+A – What will happen next in the case  
+B – The lawyer will prosecute the defendant in court
+
+---
+
+### Word: Prosecution  
+**Contextual Meaning:** The legal process of charging someone with a crime and seeking punishment.  
+**Cambridge Meaning:** The act of trying to prove in a court of law that someone is guilty of a crime.  
+**Sentence:** The prosecution presented strong evidence to convict the defendant.  
+**Conversation:**  
+A – How did the trial go  
+B – The prosecution made a convincing case
+
+---
+
+### Word: Prospective  
+**Contextual Meaning:** Likely to happen or expected to happen in the future.  
+**Cambridge Meaning:** Likely to be or become something in the future.  
+**Sentence:** The prospective student will be attending the orientation next week.  
+**Conversation:**  
+A – Have you heard from the job applicant  
+B – Yes, the prospective employee will be joining us next month
+
+---
+
+### Word: Reckless  
+**Contextual Meaning:** Acting without thinking about the possible danger or consequences.  
+**Cambridge Meaning:** Careless or without concern for the consequences.  
+**Sentence:** His reckless driving caused a serious accident on the highway.  
+**Conversation:**  
+A – How did the crash happen  
+B – It was due to his reckless driving
+
+---
+
+### Word: Requirement  
+**Contextual Meaning:** A necessary condition or qualification for something.  
+**Cambridge Meaning:** Something that is needed or demanded.  
+**Sentence:** A degree in engineering is a requirement for this job.  
+**Conversation:**  
+A – What do we need for the position  
+B – A degree is one of the key requirements
+
+---
+
+### Word: Resort  
+**Contextual Meaning:** A place where people go for rest or recreation, often in a tourist destination.  
+**Cambridge Meaning:** A place where people go for holidays or vacations.  
+**Sentence:** The family decided to spend the weekend at a luxury resort by the beach.  
+**Conversation:**  
+A – Where are you going on vacation  
+B – We’re going to a resort in the mountains
+
+---
+
+### Word: Scrutiny  
+**Contextual Meaning:** Careful examination or inspection.  
+**Cambridge Meaning:** The act of examining something closely.  
+**Sentence:** The project was under intense scrutiny by the board of directors.  
+**Conversation:**  
+A – Are they happy with the results  
+B – The project is still under scrutiny by the team
+
+---
+
+### Word: Significance  
+**Contextual Meaning:** The importance or meaning of something.  
+**Cambridge Meaning:** The meaning or importance of something.  
+**Sentence:** The discovery had great significance in the field of science.  
+**Conversation:**  
+A – What’s the importance of this event  
+B – Its significance lies in the new opportunities it presents
+
+---
+
+### Word: Subject Matter  
+**Contextual Meaning:** The topic or content of something, especially a discussion or piece of writing.  
+**Cambridge Meaning:** The content or topic that is being discussed or studied.  
+**Sentence:** The subject matter of the lecture focused on modern economic theories.  
+**Conversation:**  
+A – What was the topic of the seminar  
+B – The subject matter was digital marketing strategies
+
+---
+
+### Word: Supremely  
+**Contextual Meaning:** To an extreme or excellent degree.  
+**Cambridge Meaning:** To a very high degree.  
+**Sentence:** She performed supremely in the final exam, scoring the highest marks.  
+**Conversation:**  
+A – How was the competition  
+B – It was supremely intense, but I won first place
+
+---
+
+### Word: Undergraduate  
+**Contextual Meaning:** A student who is studying for their first degree.  
+**Cambridge Meaning:** A student who is studying for their first degree at a university.  
+**Sentence:** He is an undergraduate studying computer science at the university.  
+**Conversation:**  
+A – Are you still in school  
+B – Yes, I’m an undergraduate at a local university
+
+---
+
+### Word: Unprincipled  
+**Contextual Meaning:** Lacking moral principles or ethical standards.  
+**Cambridge Meaning:** Not following accepted moral principles.  
+**Sentence:** His unprincipled actions in business led to his downfall.  
+**Conversation:**  
+A – What do you think of his behavior  
+B – It was unprincipled and unethical
+
+---
+
+### Word: Welfare  
+**Contextual Meaning:** The well-being or health of individuals or society.  
+**Cambridge Meaning:** The health, happiness, and fortune of a person or group.  
+**Sentence:** The government should invest more in public welfare programs.  
+**Conversation:**  
+A – What does the charity focus on  
+B – It focuses on the welfare of children in need
