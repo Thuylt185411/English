@@ -49,7 +49,7 @@ Furthermore, the benefits associated with bilingual experience seem to start ver
 ---
 
 ### Questions 32-36
-**Do the following statements agree with the claims of the writer in Reading Passage 3?**
+**Do the following statements agree with the claims of the writer in Reading Passage 3**
 
 | Statement | Answer |
 |-----------|--------|
@@ -77,7 +77,7 @@ Furthermore, the benefits associated with bilingual experience seem to start ver
 **Cambridge Meaning:** To make something start working or become active.  
 **Sentence:** The button will activate the machine when you press it.  
 **Conversation:**  
-A – What happens if I press this button?  
+A – What happens if I press this button  
 B – It will activate the machine.
 
 ### Word: Adolescent  
@@ -85,7 +85,7 @@ B – It will activate the machine.
 **Cambridge Meaning:** A young person, typically between the ages of 13 and 19.  
 **Sentence:** The adolescent enjoyed playing sports and hanging out with friends.  
 **Conversation:**  
-A – How old is Sarah?  
+A – How old is Sarah  
 B – She is an adolescent, around 15 years old.
 
 ### Word: All at once  
@@ -93,7 +93,7 @@ B – She is an adolescent, around 15 years old.
 **Cambridge Meaning:** All together at the same time.  
 **Sentence:** The children ran out all at once when the bell rang.  
 **Conversation:**  
-A – Did the kids leave the room one by one?  
+A – Did the kids leave the room one by one  
 B – No, they all left at once.
 
 ### Word: Alternate  
@@ -101,7 +101,7 @@ B – No, they all left at once.
 **Cambridge Meaning:** To happen in turns or regularly.  
 **Sentence:** We will alternate between playing soccer and basketball.  
 **Conversation:**  
-A – Who will play first?  
+A – Who will play first  
 B – We will alternate each time.
 
 ### Word: Associate  
@@ -109,7 +109,7 @@ B – We will alternate each time.
 **Cambridge Meaning:** To connect or relate one thing with another.  
 **Sentence:** She always associates the smell of cookies with happy memories.  
 **Conversation:**  
-A – What do you think of when you see this picture?  
+A – What do you think of when you see this picture  
 B – I associate it with a fun trip to the beach.
 
 ### Word: Auditory  
@@ -117,7 +117,7 @@ B – I associate it with a fun trip to the beach.
 **Cambridge Meaning:** Related to the sense of hearing.  
 **Sentence:** The auditory system helps us hear sounds.  
 **Conversation:**  
-A – Do you hear the music clearly?  
+A – Do you hear the music clearly  
 B – Yes, my auditory senses are working fine.
 
 ### Word: Bilingual  
@@ -125,7 +125,7 @@ B – Yes, my auditory senses are working fine.
 **Cambridge Meaning:** Able to speak and understand two languages.  
 **Sentence:** Maria is bilingual, she speaks both Spanish and English.  
 **Conversation:**  
-A – Can Ana speak French?  
+A – Can Ana speak French  
 B – Yes, she is bilingual and speaks French and Spanish.
 
 ### Word: Bilingualism  
@@ -133,7 +133,7 @@ B – Yes, she is bilingual and speaks French and Spanish.
 **Cambridge Meaning:** The ability to speak two languages fluently.  
 **Sentence:** Bilingualism is common in many countries where two languages are spoken.  
 **Conversation:**  
-A – How many languages do you speak?  
+A – How many languages do you speak  
 B – I speak two because of bilingualism in my family.
 
 ### Word: Categorize  
@@ -141,7 +141,7 @@ B – I speak two because of bilingualism in my family.
 **Cambridge Meaning:** To divide things into groups based on their qualities.  
 **Sentence:** The teacher asked us to categorize the animals by their size.  
 **Conversation:**  
-A – What should we do with the toys?  
+A – What should we do with the toys  
 B – Let’s categorize them into cars, dolls, and blocks.
 
 ### Word: Closely  
@@ -149,7 +149,7 @@ B – Let’s categorize them into cars, dolls, and blocks.
 **Cambridge Meaning:** In a careful and detailed manner.  
 **Sentence:** She looked closely at the drawing to understand it better.  
 **Conversation:**  
-A – How did you solve the puzzle so quickly?  
+A – How did you solve the puzzle so quickly  
 B – I looked at the pieces closely.
 
 ### Word: Cognitive  
@@ -157,7 +157,7 @@ B – I looked at the pieces closely.
 **Cambridge Meaning:** Related to thinking, learning, and understanding.  
 **Sentence:** Cognitive skills help children learn how to solve problems.  
 **Conversation:**  
-A – What helps children with learning?  
+A – What helps children with learning  
 B – Good cognitive development helps them understand better.
 
 ### Word: Compel  
@@ -165,7 +165,7 @@ B – Good cognitive development helps them understand better.
 **Cambridge Meaning:** To make someone do something by force.  
 **Sentence:** The teacher will compel the students to follow the classroom rules.  
 **Conversation:**  
-A – Do you have to finish your homework?  
+A – Do you have to finish your homework  
 B – Yes, the teacher will compel us if we don’t.
 
 ### Word: Considerably  
@@ -173,7 +173,7 @@ B – Yes, the teacher will compel us if we don’t.
 **Cambridge Meaning:** Much or to a large degree.  
 **Sentence:** The weather has considerably improved since yesterday.  
 **Conversation:**  
-A – Is it warmer today?  
+A – Is it warmer today  
 B – Yes, it’s considerably warmer than yesterday.
 
 ### Word: Correspond  
@@ -181,7 +181,7 @@ B – Yes, it’s considerably warmer than yesterday.
 **Cambridge Meaning:** To match or be similar in character or quality.  
 **Sentence:** The colors of the curtains correspond to the wall color.  
 **Conversation:**  
-A – Does the shirt match the pants?  
+A – Does the shirt match the pants  
 B – Yes, the colors correspond perfectly.
 
 ### Word: Counterpart  
@@ -189,7 +189,7 @@ B – Yes, the colors correspond perfectly.
 **Cambridge Meaning:** A person or thing that has the same position or purpose in a different situation.  
 **Sentence:** The new manager met with her counterpart from the other office.  
 **Conversation:**  
-A – Who is your counterpart at the other school?  
+A – Who is your counterpart at the other school  
 B – His name is Tom, he works as a teacher too.
 
 ### Word: Degenerative  
@@ -197,7 +197,7 @@ B – His name is Tom, he works as a teacher too.
 **Cambridge Meaning:** A disease or condition that gets worse as time goes on.  
 **Sentence:** Alzheimer’s is a degenerative disease that affects memory.  
 **Conversation:**  
-A – What happens with this illness?  
+A – What happens with this illness  
 B – It’s degenerative, so it gets worse over time.
 
 ### Word: Demonstration  
@@ -205,7 +205,7 @@ B – It’s degenerative, so it gets worse over time.
 **Cambridge Meaning:** A clear example or show of how something is done.  
 **Sentence:** The teacher gave a demonstration of how to do the experiment.  
 **Conversation:**  
-A – How do you make the science project?  
+A – How do you make the science project  
 B – The teacher gave a demonstration of the steps.
 
 ### Word: Disadvantage  
@@ -213,7 +213,7 @@ B – The teacher gave a demonstration of the steps.
 **Cambridge Meaning:** A situation where you are less likely to succeed.  
 **Sentence:** Being sick can be a disadvantage during sports competitions.  
 **Conversation:**  
-A – Why didn’t Sara play the game?  
+A – Why didn’t Sara play the game  
 B – She was at a disadvantage because she was sick.
 
 ### Word: Efficiently  
@@ -221,7 +221,7 @@ B – She was at a disadvantage because she was sick.
 **Cambridge Meaning:** In a way that works well without wasting time or energy.  
 **Sentence:** He finished the project efficiently and on time.  
 **Conversation:**  
-A – How did you finish the task so fast?  
+A – How did you finish the task so fast  
 B – I worked efficiently to get it done.
 
 ### Word: Encoding  
@@ -229,7 +229,7 @@ B – I worked efficiently to get it done.
 **Cambridge Meaning:** The process of converting information into a different form.  
 **Sentence:** The brain uses encoding to remember new information.  
 **Conversation:**  
-A – How does your brain remember facts?  
+A – How does your brain remember facts  
 B – It uses encoding to store them.
 
 ### Word: Extend  
@@ -237,7 +237,7 @@ B – It uses encoding to store them.
 **Cambridge Meaning:** To make something longer or larger in size, amount, or time.  
 **Sentence:** They will extend the school holiday for another week.  
 **Conversation:**  
-A – How long is the vacation?  
+A – How long is the vacation  
 B – It will extend for one more week.
 
 ### Word: Frequency  
@@ -245,7 +245,7 @@ B – It will extend for one more week.
 **Cambridge Meaning:** How often something happens in a certain period of time.  
 **Sentence:** The frequency of her visits to the park increased during the summer.  
 **Conversation:**  
-A – How often does he come to the club?  
+A – How often does he come to the club  
 B – His frequency of visits is every week.
 
 ### Word: Fundamental  
@@ -253,7 +253,7 @@ B – His frequency of visits is every week.
 **Cambridge Meaning:** The basic, most important part of something.  
 **Sentence:** Learning to read is a fundamental skill for every child.  
 **Conversation:**  
-A – What should I learn first in school?  
+A – What should I learn first in school  
 B – The fundamental thing is learning how to read.
 
 ### Word: Halfway  
@@ -261,7 +261,7 @@ B – The fundamental thing is learning how to read.
 **Cambridge Meaning:** In the middle of a journey or process.  
 **Sentence:** We are halfway through the movie and it’s really exciting.  
 **Conversation:**  
-A – How far is it to the museum?  
+A – How far is it to the museum  
 B – We are halfway there.
 
 ### Word: Impart  
@@ -269,7 +269,7 @@ B – We are halfway there.
 **Cambridge Meaning:** To share or give knowledge, information, or wisdom.  
 **Sentence:** The teacher will impart important lessons during the class.  
 **Conversation:**  
-A – What did the teacher talk about today?  
+A – What did the teacher talk about today  
 B – She imparted some useful information about science.
 
 ### Word: Infant  
@@ -277,7 +277,7 @@ B – She imparted some useful information about science.
 **Cambridge Meaning:** A very young child or baby.  
 **Sentence:** The infant slept soundly in her crib.  
 **Conversation:**  
-A – How old is the baby?  
+A – How old is the baby  
 B – She’s an infant, just a few months old.
 
 ### Word: Interact  
@@ -285,7 +285,7 @@ B – She’s an infant, just a few months old.
 **Cambridge Meaning:** To communicate or engage with someone or something.  
 **Sentence:** Children learn best when they interact with their classmates.  
 **Conversation:**  
-A – Do you talk to your friends a lot?  
+A – Do you talk to your friends a lot  
 B – Yes, we interact every day at school.
 
 ### Word: Interference  
@@ -293,7 +293,7 @@ B – Yes, we interact every day at school.
 **Cambridge Meaning:** The act of getting in the way or causing problems.  
 **Sentence:** The loud noise caused interference with my studying.  
 **Conversation:**  
-A – Why can’t you hear the music clearly?  
+A – Why can’t you hear the music clearly  
 B – There’s interference from the radio signal.
 
 ### Word: Intervene  
@@ -301,7 +301,7 @@ B – There’s interference from the radio signal.
 **Cambridge Meaning:** To take action to stop something or help someone.  
 **Sentence:** The teacher will intervene if the children start fighting.  
 **Conversation:**  
-A – What will happen if they argue?  
+A – What will happen if they argue  
 B – The teacher will intervene and solve the problem.
 
 ### Word: Juggling  
@@ -309,7 +309,7 @@ B – The teacher will intervene and solve the problem.
 **Cambridge Meaning:** To handle multiple things at the same time.  
 **Sentence:** She was juggling homework, chores, and sports practice.  
 **Conversation:**  
-A – How do you finish everything on time?  
+A – How do you finish everything on time  
 B – I’m juggling multiple tasks every day.
 
 ### Word: Linguistic  
@@ -317,7 +317,7 @@ B – I’m juggling multiple tasks every day.
 **Cambridge Meaning:** Relating to language or its structure.  
 **Sentence:** He is studying the linguistic differences between English and Spanish.  
 **Conversation:**  
-A – What is your brother studying?  
+A – What is your brother studying  
 B – He is learning about linguistic patterns in languages.
 
 ### Word: Mechanism  
@@ -325,7 +325,7 @@ B – He is learning about linguistic patterns in languages.
 **Cambridge Meaning:** A system or part of a system that does a specific job.  
 **Sentence:** The machine’s mechanism helps it to work smoothly.  
 **Conversation:**  
-A – Why is the toy not working?  
+A – Why is the toy not working  
 B – The mechanism inside is broken.
 
 ### Word: Monolingual  
@@ -333,7 +333,7 @@ B – The mechanism inside is broken.
 **Cambridge Meaning:** A person who speaks only one language.  
 **Sentence:** He is monolingual and speaks only English.  
 **Conversation:**  
-A – How many languages can Tom speak?  
+A – How many languages can Tom speak  
 B – He is monolingual and speaks only one language.
 
 ### Word: Multilingual  
@@ -341,7 +341,7 @@ B – He is monolingual and speaks only one language.
 **Cambridge Meaning:** A person who speaks more than one language.  
 **Sentence:** She is multilingual and speaks French, Spanish, and Italian.  
 **Conversation:**  
-A – How many languages can you speak?  
+A – How many languages can you speak  
 B – I am multilingual and can speak four languages.
 
 ### Word: Navigate  
@@ -349,7 +349,7 @@ B – I am multilingual and can speak four languages.
 **Cambridge Meaning:** To find your way or steer something in a specific direction.  
 **Sentence:** He used a map to navigate through the city.  
 **Conversation:**  
-A – How do you find the way to the park?  
+A – How do you find the way to the park  
 B – I navigate using a map on my phone.
 
 ### Word: Neurological  
@@ -357,7 +357,7 @@ B – I navigate using a map on my phone.
 **Cambridge Meaning:** Relating to the nervous system and brain.  
 **Sentence:** Neurological tests are used to check the brain’s health.  
 **Conversation:**  
-A – What does the doctor study?  
+A – What does the doctor study  
 B – He studies neurological diseases of the brain.
 
 ### Word: Observe  
@@ -365,7 +365,7 @@ B – He studies neurological diseases of the brain.
 **Cambridge Meaning:** To watch something closely or pay attention to something.  
 **Sentence:** The scientist will observe the birds to learn more about them.  
 **Conversation:**  
-A – Why are you watching the birds?  
+A – Why are you watching the birds  
 B – I’m observing them to understand their behavior.
 
 ### Word: Peer  
@@ -373,7 +373,7 @@ B – I’m observing them to understand their behavior.
 **Cambridge Meaning:** A person who is equal to another in age, status, or ability.  
 **Sentence:** My peers and I all have the same project to complete.  
 **Conversation:**  
-A – Who is working with you on the project?  
+A – Who is working with you on the project  
 B – My peers from class are helping me.
 
 ### Word: Perception  
@@ -381,7 +381,7 @@ B – My peers from class are helping me.
 **Cambridge Meaning:** The way in which we view or understand something.  
 **Sentence:** His perception of the situation was different from mine.  
 **Conversation:**  
-A – How do you see the movie?  
+A – How do you see the movie  
 B – My perception is that it’s really funny.
 
 ### Word: Perceptual  
@@ -389,7 +389,7 @@ B – My perception is that it’s really funny.
 **Cambridge Meaning:** Relating to the ability to perceive or understand things through the senses.  
 **Sentence:** The perceptual skill of identifying sounds improved with practice.  
 **Conversation:**  
-A – Can you tell the difference between these two sounds?  
+A – Can you tell the difference between these two sounds  
 B – Yes, my perceptual skills help me recognize them.
 
 ### Word: Persistent  
@@ -397,7 +397,7 @@ B – Yes, my perceptual skills help me recognize them.
 **Cambridge Meaning:** Continuing to do something or exist for a long time.  
 **Sentence:** His persistent efforts finally helped him finish the puzzle.  
 **Conversation:**  
-A – How did you finish the task?  
+A – How did you finish the task  
 B – It was because of my persistent work every day.
 
 ### Word: Phenomenon  
@@ -405,7 +405,7 @@ B – It was because of my persistent work every day.
 **Cambridge Meaning:** A fact or situation that can be observed or studied.  
 **Sentence:** The rainbow was a beautiful natural phenomenon after the rain.  
 **Conversation:**  
-A – What caused the rainbow?  
+A – What caused the rainbow  
 B – It’s a natural phenomenon after the rain.
 
 ### Word: Puppet  
@@ -413,7 +413,7 @@ B – It’s a natural phenomenon after the rain.
 **Cambridge Meaning:** A doll or figure controlled by someone, often used in performances.  
 **Sentence:** The puppet danced on the stage with its master’s help.  
 **Conversation:**  
-A – What is that on the stage?  
+A – What is that on the stage  
 B – It’s a puppet being controlled by strings.
 
 ### Word: Recognition  
@@ -421,7 +421,7 @@ B – It’s a puppet being controlled by strings.
 **Cambridge Meaning:** The ability to identify something you have seen before.  
 **Sentence:** She got recognition for her hard work in the project.  
 **Conversation:**  
-A – Did the teacher notice your effort?  
+A – Did the teacher notice your effort  
 B – Yes, I got recognition for my hard work.
 
 ### Word: Recruit  
@@ -429,7 +429,7 @@ B – Yes, I got recognition for my hard work.
 **Cambridge Meaning:** To find new people to join an organization or activity.  
 **Sentence:** The company will recruit new staff for the office.  
 **Conversation:**  
-A – Are they hiring new people?  
+A – Are they hiring new people  
 B – Yes, they will recruit staff for the office soon.
 
 ### Word: Sensory  
@@ -437,7 +437,7 @@ B – Yes, they will recruit staff for the office soon.
 **Cambridge Meaning:** Relating to your senses, such as sight, hearing, or touch.  
 **Sentence:** Sensory activities like touching different materials help children learn.  
 **Conversation:**  
-A – Why are we touching different things?  
+A – Why are we touching different things  
 B – It’s a sensory activity to help us learn.
 
 ### Word: Sequential  
@@ -445,7 +445,7 @@ B – It’s a sensory activity to help us learn.
 **Cambridge Meaning:** Happening in a particular order, one after the other.  
 **Sentence:** The steps in the recipe are sequential and must be followed in order.  
 **Conversation:**  
-A – How do you make the cake?  
+A – How do you make the cake  
 B – I follow the sequential steps in the recipe.
 
 ### Word: Severity  
@@ -453,7 +453,7 @@ B – I follow the sequential steps in the recipe.
 **Cambridge Meaning:** The seriousness or level of something.  
 **Sentence:** The severity of the storm caused power outages across the city.  
 **Conversation:**  
-A – How bad was the storm?  
+A – How bad was the storm  
 B – The severity of the storm caused many issues.
 
 ### Word: Simultaneously  
@@ -461,7 +461,7 @@ B – The severity of the storm caused many issues.
 **Cambridge Meaning:** Occurring at the same time as something else.  
 **Sentence:** The children sang and clapped their hands simultaneously.  
 **Conversation:**  
-A – Are they doing everything at once?  
+A – Are they doing everything at once  
 B – Yes, they are singing and clapping simultaneously.
 
 ### Word: Symptom  
@@ -469,7 +469,7 @@ B – Yes, they are singing and clapping simultaneously.
 **Cambridge Meaning:** A sign or feeling that indicates a health problem.  
 **Sentence:** A cough is a common symptom of a cold.  
 **Conversation:**  
-A – Why are you sick?  
+A – Why are you sick  
 B – I have a cough, which is a symptom of a cold.
 
 ### Word: Tinkle  
@@ -477,7 +477,7 @@ B – I have a cough, which is a symptom of a cold.
 **Cambridge Meaning:** A soft, high sound, like the sound of a small bell.  
 **Sentence:** The tinkle of the bell echoed through the room.  
 **Conversation:**  
-A – What is that sound?  
+A – What is that sound  
 B – It’s the tinkle of the little bell.
 
 ### Word: Triangle  
@@ -485,7 +485,7 @@ B – It’s the tinkle of the little bell.
 **Cambridge Meaning:** A shape with three sides and three angles.  
 **Sentence:** The triangle is the easiest shape to draw.  
 **Conversation:**  
-A – How many sides does it have?  
+A – How many sides does it have  
 B – It has three sides, it’s a triangle.
 
 ### Word: Upbringing  
@@ -493,7 +493,7 @@ B – It has three sides, it’s a triangle.
 **Cambridge Meaning:** The way a child is raised and taught by their family.  
 **Sentence:** Her upbringing taught her the value of honesty.  
 **Conversation:**  
-A – How did you learn to be so kind?  
+A – How did you learn to be so kind  
 B – My upbringing taught me to always be kind.
 
 ### Word: Verbal  
@@ -501,6 +501,6 @@ B – My upbringing taught me to always be kind.
 **Cambridge Meaning:** Relating to speaking or using words.  
 **Sentence:** The verbal communication during the meeting was clear and easy to understand.  
 **Conversation:**  
-A – How did the meeting go?  
+A – How did the meeting go  
 B – It was good, the verbal communication was very clear.
 
