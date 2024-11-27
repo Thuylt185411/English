@@ -1,3 +1,6 @@
+
+
+
 ## The risks agriculture faces in developing countries  
 ### Synthesis of an online debate
 
@@ -33,7 +36,7 @@ Some participants explained that market price volatility is often worsened by th
 ## Questions 1-3  
 Reading Passage 1 has nine paragraphs, A-I.  
 
-Which paragraph contains the following information  
+Which paragraph contains the following information?  
 Write the correct letter, A-I, in boxes 1-3 on your answer sheet.
 
 1. a reference to characteristics that only apply to food production  
@@ -72,7 +75,7 @@ G. Sonali Bisht
 Choose TWO letters, A-E.  
 Write the correct letters in boxes 10 and 11 on your answer sheet.  
 
-Which TWO problems are mentioned which affect farmers with small farms in developing countries  
+Which TWO problems are mentioned which affect farmers with small farms in developing countries?  
 A. lack of demand for locally produced food  
 B. lack of irrigation programmes  
 C. being unable to get insurance  
@@ -85,7 +88,7 @@ E. having to sell their goods to intermediary buyers
 Choose TWO letters, A-E.  
 Write the correct letters in boxes 12 and 13 on your answer sheet.  
 
-Which TWO actions are recommended for improving conditions for farmers  
+Which TWO actions are recommended for improving conditions for farmers?  
 A. reducing the size of food stocks  
 B. attempting to ensure that prices rise at certain times of the year  
 C. organising co-operation between a wide range of interested parties  
@@ -94,698 +97,714 @@ E. making customers aware of the reasons for changing food prices
 
 
 ### Word: Adequate  
-**Contextual Meaning:** Sufficient to meet the needs or requirements.  
-**Cambridge Meaning:** Enough or satisfactory for a particular purpose.  
-**Sentence:** The smallholder farmers have adequate resources to sustain their families.  
+**Contextual Meaning:** Enough or satisfactory for a particular purpose.  
+**Cambridge Meaning:** Good enough for a particular purpose.  
+**Sentence:** The food was adequate for the picnic, but we could have more.  
 **Conversation:**  
-A – Do you think the farm will be enough to support us  
-B – Yes, the land provides adequate crops for the season.
-
----
+A – Is the food enough for everyone?  
+B – Yes, it’s adequate for now, but we may need more later.  
 
 ### Word: Adequate Stocks  
-**Contextual Meaning:** A sufficient amount of goods or supplies to meet demand.  
-**Cambridge Meaning:** Enough stock to meet demand.  
-**Sentence:** The government ensures there are adequate stocks of food during emergencies.  
+**Contextual Meaning:** Enough supplies or goods.  
+**Cambridge Meaning:** Sufficient quantity of something.  
+**Sentence:** The store has adequate stocks of fruit for the week.  
 **Conversation:**  
-A – Do you think we have enough food for the winter  
-B – Yes, the warehouse has adequate stocks for the next few months.
-
----
+A – Do we have enough apples for the week?  
+B – Yes, we have adequate stocks in the fridge.  
 
 ### Word: Adopt  
-**Contextual Meaning:** To take on or begin to use something, like a policy or practice.  
-**Cambridge Meaning:** To take up or start using something.  
-**Sentence:** The farm adopted new irrigation techniques to conserve water.  
+**Contextual Meaning:** To take something as your own, especially an idea or a pet.  
+**Cambridge Meaning:** To take something and make it your own.  
+**Sentence:** They decided to adopt a puppy from the animal shelter.  
 **Conversation:**  
-A – Have you started using the new planting methods  
-B – Yes, we adopted them last season, and they’re working well.
-
----
+A – Do you want a pet?  
+B – Yes, I want to adopt a dog from the shelter.  
 
 ### Word: Adoption  
-**Contextual Meaning:** The action or process of adopting a practice or policy.  
-**Cambridge Meaning:** The act of taking something as your own, such as a method or system.  
-**Sentence:** The adoption of new farming technology helped increase crop yields.  
+**Contextual Meaning:** The act of taking a child or pet into your family.  
+**Cambridge Meaning:** The act of taking someone else's child into your family legally.  
+**Sentence:** The family celebrated the adoption of their new puppy.  
 **Conversation:**  
-A – How did the farm improve its productivity  
-B – The adoption of better equipment played a big role.
-
----
+A – How did you get your dog?  
+B – We did the adoption process at the animal shelter.  
 
 ### Word: Adverse  
-**Contextual Meaning:** Harmful or unfavorable, especially in relation to weather or conditions.  
-**Cambridge Meaning:** Having a negative or harmful effect.  
-**Sentence:** The adverse effects of the drought were felt across the region.  
+**Contextual Meaning:** Negative or harmful.  
+**Cambridge Meaning:** Bad or harmful.  
+**Sentence:** The storm had an adverse effect on the crops.  
 **Conversation:**  
-A – How did the drought affect your crops  
-B – The adverse conditions led to a significant drop in yield.
-
----
+A – How did the weather affect the plants?  
+B – The adverse weather made the crops grow slowly.  
 
 ### Word: Advisor  
-**Contextual Meaning:** A person who gives advice, often in a professional capacity.  
-**Cambridge Meaning:** Someone who provides guidance or advice.  
-**Sentence:** The farmer consulted an advisor about improving soil health.  
+**Contextual Meaning:** A person who gives advice.  
+**Cambridge Meaning:** A person who gives advice about something.  
+**Sentence:** She went to her advisor for help with school problems.  
 **Conversation:**  
-A – Have you asked anyone for advice about the harvest  
-B – Yes, I spoke to an advisor from the agricultural department.
-
----
+A – Who helps you with your homework?  
+B – My advisor gives me advice when I need it.  
 
 ### Word: Agribusiness  
-**Contextual Meaning:** A business involved in agricultural production, processing, or distribution.  
-**Cambridge Meaning:** Businesses related to the production and sale of food and farm products.  
-**Sentence:** Agribusinesses are crucial in ensuring the stability of food markets.  
+**Contextual Meaning:** Business related to farming and agriculture.  
+**Cambridge Meaning:** The business of producing and selling food or farm products.  
+**Sentence:** They work in agribusiness, growing vegetables for the market.  
 **Conversation:**  
-A – Do you think the agribusiness sector is growing  
-B – Yes, it’s expanding with new technologies and better distribution systems.
-
----
+A – What does your dad do?  
+B – He works in agribusiness, growing fruits and vegetables.  
 
 ### Word: Agricultural  
-**Contextual Meaning:** Related to farming or the cultivation of crops and livestock.  
-**Cambridge Meaning:** Relating to farming or the cultivation of crops.  
-**Sentence:** Agricultural development is key to improving food security.  
+**Contextual Meaning:** Related to farming or growing food.  
+**Cambridge Meaning:** Connected with farming or the cultivation of crops.  
+**Sentence:** The country has a strong agricultural industry that grows rice.  
 **Conversation:**  
-A – What is your area of expertise in the economy  
-B – I work in agricultural policy development.
-
----
+A – What is the main job in your country?  
+B – Most people work in agricultural fields, growing crops.  
 
 ### Word: Agriculture  
-**Contextual Meaning:** The practice of farming, including the cultivation of soil and the raising of animals.  
-**Cambridge Meaning:** The science or practice of farming, including growing crops and raising animals.  
-**Sentence:** Agriculture forms the backbone of the local economy in rural areas.  
+**Contextual Meaning:** The practice of farming, growing crops, and raising animals.  
+**Cambridge Meaning:** The science or practice of farming.  
+**Sentence:** Agriculture is very important for providing food to everyone.  
 **Conversation:**  
-A – How does your country rely on agriculture  
-B – Agriculture is the primary source of income for many communities.
-
----
+A – What does agriculture mean?  
+B – It means growing crops and raising animals for food.  
 
 ### Word: Alleviate  
-**Contextual Meaning:** To reduce or ease something, often referring to pain or difficulty.  
-**Cambridge Meaning:** To make something less severe or more bearable.  
-**Sentence:** The government’s relief programs aim to alleviate hunger during times of crisis.  
+**Contextual Meaning:** To make something less severe or easier to bear.  
+**Cambridge Meaning:** To make something less painful or difficult.  
+**Sentence:** The medicine helped alleviate the pain in my leg.  
 **Conversation:**  
-A – How can we reduce the effects of the drought  
-B – We need to alleviate water shortages by using better irrigation systems.
-
----
+A – How do you feel now?  
+B – The medicine really helped alleviate the pain.  
 
 ### Word: Assistance  
-**Contextual Meaning:** Help or support given to someone or something.  
-**Cambridge Meaning:** The act of helping or providing support.  
-**Sentence:** Farmers in need of assistance can apply for government subsidies.  
+**Contextual Meaning:** Help or support.  
+**Cambridge Meaning:** Help or support when needed.  
+**Sentence:** The teacher gave her assistance with the math problem.  
 **Conversation:**  
-A – How did you manage to expand your farm  
-B – We received financial assistance from a local agricultural fund.
-
----
+A – Do you need help with the homework?  
+B – Yes, I could use some assistance with the questions.  
 
 ### Word: Autonomous  
-**Contextual Meaning:** Acting independently or having the freedom to make decisions.  
-**Cambridge Meaning:** Self-governing or independent.  
-**Sentence:** The rural community has become more autonomous by managing their own resources.  
+**Contextual Meaning:** Able to do things by oneself without help.  
+**Cambridge Meaning:** Able to do things alone, without help from others.  
+**Sentence:** The robot is autonomous and can work without human help.  
 **Conversation:**  
-A – How does your village make decisions  
-B – We are more autonomous now, managing most of our agricultural activities.
+A – Can the car drive by itself?  
+B – Yes, the car is autonomous and doesn’t need a driver.  
 
----
 ### Word: Bargaining Power  
-**Contextual Meaning:** The ability to negotiate or influence outcomes in a deal or situation.  
-**Cambridge Meaning:** The ability to influence others in negotiations.  
-**Sentence:** Farmers gain more bargaining power when they work together as a group.  
+**Contextual Meaning:** The ability to negotiate or influence others.  
+**Cambridge Meaning:** The ability to make others give you something in exchange for something you offer.  
+**Sentence:** The workers have strong bargaining power because there are many of them.  
 **Conversation:**  
-A – How can small farmers improve their position in the market  
-B – By joining a cooperative, they can increase their bargaining power.
-
----
+A – Why do the workers want to negotiate?  
+B – They have strong bargaining power because they work together.  
 
 ### Word: Beneficiary  
-**Contextual Meaning:** A person or group that receives benefits, especially financial aid.  
-**Cambridge Meaning:** A person or group who receives benefits or gains from something.  
-**Sentence:** The rural farmers were the primary beneficiaries of the new subsidy program.  
+**Contextual Meaning:** A person who receives something, like money or help.  
+**Cambridge Meaning:** A person or group who receives something good from someone else.  
+**Sentence:** She is the beneficiary of the charity's gift.  
 **Conversation:**  
-A – Who will benefit most from the new farming initiative  
-B – The smallholder farmers are the main beneficiaries.
-
----
+A – Who gets the prize?  
+B – I am the beneficiary of the prize because I entered the contest.  
 
 ### Word: Characteristic  
-**Contextual Meaning:** A distinguishing quality or feature of someone or something.  
-**Cambridge Meaning:** A typical quality or feature of something.  
-**Sentence:** A characteristic of successful farms is efficient water management.  
+**Contextual Meaning:** A feature or quality that makes something special or unique.  
+**Cambridge Meaning:** A typical or noticeable quality of someone or something.  
+**Sentence:** One characteristic of a good leader is listening to others.  
 **Conversation:**  
-A – What makes your farm stand out  
-B – One characteristic is our focus on sustainable practices.
-
----
+A – What makes him a good leader?  
+B – One characteristic is that he listens to everyone’s ideas.  
 
 ### Word: Climate  
-**Contextual Meaning:** The long-term weather conditions in a region that affect agriculture.  
-**Cambridge Meaning:** The typical weather conditions in a place over a period of time.  
-**Sentence:** The changing climate is affecting crop yields across many regions.  
+**Contextual Meaning:** The general weather conditions in a place.  
+**Cambridge Meaning:** The usual weather conditions in a place over a long period.  
+**Sentence:** The climate in this area is hot and dry.  
 **Conversation:**  
-A – How has the weather been this year  
-B – The climate has been unpredictable, and crops are suffering.
-
----
+A – What’s the weather like here?  
+B – The climate is very warm and dry most of the year.  
 
 ### Word: Collective  
-**Contextual Meaning:** A group of people acting together to achieve a common goal.  
-**Cambridge Meaning:** Done or shared by all members of a group.  
-**Sentence:** The collective effort of farmers improved the community's food security.  
+**Contextual Meaning:** Done by people working together as a group.  
+**Cambridge Meaning:** Done or shared by all the members of a group.  
+**Sentence:** The team’s collective effort helped them win the game.  
 **Conversation:**  
-A – How did the community manage to get better prices for their produce  
-B – They formed a collective to negotiate with suppliers.
-
----
+A – How did you finish the project so fast?  
+B – It was a collective effort from everyone in the group.  
 
 ### Word: Commentator  
-**Contextual Meaning:** A person who provides commentary, often about events or issues in the media.  
-**Cambridge Meaning:** Someone who describes and explains events, especially on television or radio.  
-**Sentence:** The commentator highlighted the challenges farmers face in rural areas.  
+**Contextual Meaning:** A person who talks about an event or situation, usually on TV or radio.  
+**Cambridge Meaning:** A person who describes an event on TV, radio, or in writing.  
+**Sentence:** The commentator explained the rules of the game during the match.  
 **Conversation:**  
-A – Who is talking about the challenges in the farming industry  
-B – It’s the commentator from the agricultural news channel.
-
----
+A – Who is talking about the game?  
+B – The commentator is explaining everything on TV.  
 
 ### Word: Commodity  
-**Contextual Meaning:** A raw material or primary agricultural product that can be bought or sold.  
-**Cambridge Meaning:** A basic item or product that is bought and sold.  
-**Sentence:** Rice is one of the most important commodities in many developing countries.  
+**Contextual Meaning:** A basic product that can be bought and sold.  
+**Cambridge Meaning:** A basic product that is traded, like oil or wheat.  
+**Sentence:** Gold is a valuable commodity that people trade around the world.  
 **Conversation:**  
-A – What crops are most in demand in your country  
-B – Rice and wheat are the most valuable commodities here.
-
----
+A – What is the most valuable thing you own?  
+B – Gold is a valuable commodity, and it’s easy to trade.  
 
 ### Word: Compensate  
-**Contextual Meaning:** To give something, typically money, to make up for a loss or difficulty.  
-**Cambridge Meaning:** To give someone something, usually money, in exchange for something they have lost.  
-**Sentence:** The government plans to compensate farmers who lost their crops due to floods.  
+**Contextual Meaning:** To give something as payment for something lost or damaged.  
+**Cambridge Meaning:** To give something to make up for loss or damage.  
+**Sentence:** The company will compensate the workers for extra hours worked.  
 **Conversation:**  
-A – How will the farmers recover from the damage  
-B – They will be compensated for their losses by the state.
-
----
+A – Will we get paid for working extra?  
+B – Yes, they will compensate us for the extra hours.  
 
 ### Word: Consequence  
-**Contextual Meaning:** A result or effect of an action, particularly one that is undesirable.  
-**Cambridge Meaning:** A result or effect of something, often negative.  
-**Sentence:** The consequence of not addressing climate change is a decline in crop productivity.  
+**Contextual Meaning:** A result or effect of something.  
+**Cambridge Meaning:** A result of something that happens.  
+**Sentence:** If you don't study, the consequence might be a bad grade.  
 **Conversation:**  
-A – What will happen if we don't act on this  
-B – The consequence will be a significant loss in agricultural yields.
-
----
+A – What will happen if we skip class?  
+B – The consequence could be a bad grade on the test.  
 
 ### Word: Consume  
-**Contextual Meaning:** To use up or eat something.  
-**Cambridge Meaning:** To eat or drink something.  
-**Sentence:** People consume more food during the harvest season.  
+**Contextual Meaning:** To eat, drink, or use something.  
+**Cambridge Meaning:** To eat, drink, or use up something.  
+**Sentence:** We consume food every day to stay healthy.  
 **Conversation:**  
-A – How much food do you need for the village  
-B – We consume a lot during the harvest, especially rice and vegetables.
-
----
+A – What do we do with the food?  
+B – We consume it to give us energy.  
 
 ### Word: Contend  
-**Contextual Meaning:** To argue or state a position in a debate or competition.  
-**Cambridge Meaning:** To argue or state something in a discussion.  
-**Sentence:** Many experts contend that more sustainable farming practices are necessary for long-term food security.  
+**Contextual Meaning:** To struggle or argue for something.  
+**Cambridge Meaning:** To argue or fight for something.  
+**Sentence:** He contends that his idea is the best one for the project.  
 **Conversation:**  
-A – What do you think about the future of farming  
-B – I contend that we need to focus on sustainability and less on chemical use.
-
----
+A – What is he doing in the meeting?  
+B – He is contending for his idea to be chosen.  
 
 ### Word: Counter-intuitively  
-**Contextual Meaning:** In a way that goes against common sense or expectation.  
-**Cambridge Meaning:** In a way that seems to be the opposite of what you would expect.  
-**Sentence:** Counter-intuitively, less water usage can sometimes increase crop yields when managed properly.  
+**Contextual Meaning:** In a way that is opposite to what you would expect.  
+**Cambridge Meaning:** In a way that is surprising or the opposite of what you think.  
+**Sentence:** Counter-intuitively, it is often colder in the mountains during summer.  
 **Conversation:**  
-A – Does reducing water usage hurt crops  
-B – Counter-intuitively, it can actually improve growth if done correctly.
-
----
+A – Why is it so cold in the mountains?  
+B – Counter-intuitively, the temperature drops in the summer at high altitudes.  
 
 ### Word: Dependency  
-**Contextual Meaning:** A reliance on something or someone for support or resources.  
-**Cambridge Meaning:** A state of relying on something for support or existence.  
-**Sentence:** The region's dependency on rainfall for crops makes farming highly unpredictable.  
+**Contextual Meaning:** A situation where someone needs something or someone else.  
+**Cambridge Meaning:** A state of needing something to survive or function.  
+**Sentence:** The child has a dependency on her parents for care.  
 **Conversation:**  
-A – Why is farming so risky in this area  
-B – The dependency on consistent rainfall is a major issue.
-
----
+A – Why does she need so much help?  
+B – She has a dependency on her parents because she is young.  
 
 ### Word: Dependent  
-**Contextual Meaning:** Relying on something or someone for support or needs.  
-**Cambridge Meaning:** Needing something or someone for support.  
-**Sentence:** Smallholder farmers are often dependent on government subsidies to survive.  
+**Contextual Meaning:** Needing help or support from someone or something.  
+**Cambridge Meaning:** Needing someone or something for support.  
+**Sentence:** The plant is dependent on sunlight to grow.  
 **Conversation:**  
-A – How do farmers manage when prices drop  
-B – They are dependent on government aid in such cases.
-
----
+A – Can the plant live without sunlight?  
+B – No, it is dependent on sunlight for growth.  
 
 ### Word: Distinguish  
-**Contextual Meaning:** To recognize or show the difference between things.  
-**Cambridge Meaning:** To recognize or point out the differences between things.  
-**Sentence:** It’s important to distinguish between different types of crops to ensure proper care.  
+**Contextual Meaning:** To tell the difference between things.  
+**Cambridge Meaning:** To recognize the difference between two things.  
+**Sentence:** It's hard to distinguish between the two twins because they look alike.  
 **Conversation:**  
-A – How do you know which crops need more water  
-B – You have to distinguish between them based on their needs.
-
----
+A – How can you tell them apart?  
+B – I can distinguish them by their clothes.  
 
 ### Word: Distribution  
-**Contextual Meaning:** The process of delivering or spreading something over a certain area.  
-**Cambridge Meaning:** The process of spreading something across a place.  
-**Sentence:** The distribution of food during crises often determines the success of relief efforts.  
+**Contextual Meaning:** The way something is given out or spread.  
+**Cambridge Meaning:** The action of sharing or giving out something.  
+**Sentence:** The teacher is in charge of the distribution of the books.  
 **Conversation:**  
-A – How did the food reach all the villagers  
-B – The distribution was organized by the local government and NGOs.
-
----
+A – Who will give out the pencils?  
+B – The teacher will handle the distribution to everyone.  
 
 ### Word: Diversify  
-**Contextual Meaning:** To make something more varied, especially to reduce risk.  
-**Cambridge Meaning:** To make more varied or different.  
-**Sentence:** Farmers are advised to diversify their crops to reduce the risk of total crop failure.  
+**Contextual Meaning:** To make something more varied or different.  
+**Cambridge Meaning:** To make something more varied or different.  
+**Sentence:** The company wants to diversify its products to attract more customers.  
 **Conversation:**  
-A – Why do you plant so many different crops  
-B – I diversify to avoid losing everything if one crop fails.
-
----
+A – Why is the company changing?  
+B – They are trying to diversify their products to reach new markets.  
 
 ### Word: Efficiently  
-**Contextual Meaning:** In a way that uses the least amount of resources for the greatest result.  
-**Cambridge Meaning:** In a way that achieves maximum productivity with minimum wasted effort.  
-**Sentence:** The new irrigation system allows the farm to use water more efficiently.  
+**Contextual Meaning:** Doing something in a quick and effective way.  
+**Cambridge Meaning:** In a way that saves time and energy.  
+**Sentence:** She finished her homework efficiently by organizing her tasks.  
 **Conversation:**  
-A – How did you cut water usage so much  
-B – We installed systems that use water much more efficiently.
+A – How did you finish so quickly?  
+B – I worked efficiently by focusing on one task at a time.  
 
----
 ### Word: Enhance  
 **Contextual Meaning:** To improve or make something better.  
-**Cambridge Meaning:** To improve or increase the quality or value of something.  
-**Sentence:** New technology can enhance the efficiency of agricultural practices.  
+**Cambridge Meaning:** To make something better or stronger.  
+**Sentence:** The new software will enhance the computer’s performance.  
 **Conversation:**  
-A – How can we improve farm productivity  
-B – We can enhance efficiency with better tools and training.
-
----
+A – Why do we need this update?  
+B – It will enhance the computer’s speed and performance.  
 
 ### Word: Entrench  
-**Contextual Meaning:** To establish something firmly so that it is difficult to change.  
-**Cambridge Meaning:** To establish something so firmly that it is very difficult to change.  
-**Sentence:** The government's policies have entrenched the challenges facing small farmers.  
+**Contextual Meaning:** To establish something firmly or deeply.  
+**Cambridge Meaning:** To establish something firmly, often in a way that is hard to change.  
+**Sentence:** The tradition is deeply entrenched in their culture.  
 **Conversation:**  
-A – Why is it so hard to change the farming system  
-B – The issues are entrenched in the policies and practices of the government.
-
----
+A – Why do they follow this rule so strictly?  
+B – The rule is entrenched in their culture and has been followed for many years.  
 
 ### Word: Essayist  
-**Contextual Meaning:** A writer who produces essays, often on specific topics or issues.  
-**Cambridge Meaning:** A person who writes essays, especially for newspapers or magazines.  
-**Sentence:** The essayist discussed the impact of climate change on agriculture in her article.  
+**Contextual Meaning:** A person who writes essays.  
+**Cambridge Meaning:** A person who writes short pieces of writing on a particular subject.  
+**Sentence:** The essayist wrote a lot about history in her new book.  
 **Conversation:**  
-A – Who wrote the article on farming and climate change  
-B – It was written by a well-known essayist in the agriculture field.
-
----
+A – What does she do?  
+B – She is an essayist and writes articles for magazines.  
 
 ### Word: Evident  
-**Contextual Meaning:** Clear or obvious to the eye or mind.  
+**Contextual Meaning:** Clearly seen or understood.  
 **Cambridge Meaning:** Easy to see or understand.  
-**Sentence:** The negative effects of climate change on crops are evident in many regions.  
+**Sentence:** It was evident that the team had practiced hard for the match.  
 **Conversation:**  
-A – Can you see the impact of climate change on your farm  
-B – Yes, the changes are evident in the reduced yields.
-
----
+A – How do you know they won?  
+B – It’s evident from their excited reactions after the game.  
 
 ### Word: Excessively  
-**Contextual Meaning:** In a way that is too much or over the necessary amount.  
-**Cambridge Meaning:** More than is necessary, normal, or desirable.  
-**Sentence:** The use of pesticides has been excessively high in some farming areas.  
+**Contextual Meaning:** More than is necessary or needed.  
+**Cambridge Meaning:** More than is needed or reasonable.  
+**Sentence:** He eats excessively and needs to eat less to stay healthy.  
 **Conversation:**  
-A – Why are pesticide levels so high in this region  
-B – It’s due to the excessively large amounts used by some farmers.
-
----
+A – Why is he always eating so much?  
+B – He eats excessively and should be more careful with his food.  
 
 ### Word: Executive  
-**Contextual Meaning:** A person with high-level managerial responsibilities in an organization.  
-**Cambridge Meaning:** A person who has an important job in a company or organization.  
-**Sentence:** The executive of the agricultural institute proposed new policies for supporting farmers.  
+**Contextual Meaning:** A person with an important job in a company or organization.  
+**Cambridge Meaning:** A person who manages or makes important decisions in a company.  
+**Sentence:** The executive made the final decision about the new project.  
 **Conversation:**  
-A – Who makes the final decisions at the institute  
-B – The executive team is responsible for those decisions.
-
----
+A – Who decided to launch the new product?  
+B – The executive made that decision.  
 
 ### Word: Facility  
-**Contextual Meaning:** A place, system, or equipment used for a specific purpose.  
-**Cambridge Meaning:** A building, room, or equipment used for a particular activity.  
-**Sentence:** The new irrigation facility has significantly improved water access for farmers.  
+**Contextual Meaning:** A place or building for a specific purpose.  
+**Cambridge Meaning:** A place designed for a particular activity or service.  
+**Sentence:** The school has a new sports facility for the students.  
 **Conversation:**  
-A – What’s the latest upgrade on the farm  
-B – We just built a new irrigation facility to improve water access.
-
----
+A – Where can we play basketball?  
+B – We can use the new sports facility at the school.  
 
 ### Word: Fossil  
-**Contextual Meaning:** A natural substance that comes from the remains of ancient organisms, often used for energy.  
-**Cambridge Meaning:** A substance such as coal, oil, or gas, formed from the remains of dead plants or animals.  
-**Sentence:** Fossil fuels are a major contributor to global warming, which affects agriculture.  
+**Contextual Meaning:** The remains or trace of a plant or animal from a long time ago.  
+**Cambridge Meaning:** The remains of ancient plants or animals found in rocks.  
+**Sentence:** The scientists found a dinosaur fossil in the desert.  
 **Conversation:**  
-A – Why is the use of fossil fuels a problem  
-B – They contribute to climate change, which harms farming.
-
----
+A – What did they find?  
+B – They found a fossil of an ancient dinosaur.  
 
 ### Word: Frequency  
-**Contextual Meaning:** The rate at which something happens or is done.  
-**Cambridge Meaning:** The number of times something happens within a certain period.  
-**Sentence:** The frequency of extreme weather events is increasing due to climate change.  
+**Contextual Meaning:** How often something happens.  
+**Cambridge Meaning:** The number of times something happens in a certain period.  
+**Sentence:** The frequency of the bus arrivals is every 15 minutes.  
 **Conversation:**  
-A – Has the weather been unusual lately  
-B – Yes, the frequency of storms has increased a lot this year.
+A – How often do the buses come?  
+B – The frequency is about every 15 minutes.
 
----
-
-### Word: Futures Markets  
-**Contextual Meaning:** Markets where agricultural products and commodities are bought and sold for future delivery.  
-**Cambridge Meaning:** A market for buying and selling goods or commodities for delivery at a later time.  
-**Sentence:** Futures markets can help farmers lock in prices and protect against price volatility.  
+### Word: Futures markets  
+**Contextual Meaning:** Markets where people buy and sell contracts for goods or services that will happen in the future.  
+**Cambridge Meaning:** Markets where goods or services are bought and sold for delivery at a later date.  
+**Sentence:** In futures markets, people agree to buy products in the future at today’s price.  
 **Conversation:**  
-A – How do farmers protect themselves from market fluctuations  
-B – They use futures markets to secure prices ahead of time.
-
----
+A – What do people do in futures markets?  
+B – They agree to buy products in the future at today’s prices.  
 
 ### Word: Hugely  
-**Contextual Meaning:** To a very great degree or extent.  
-**Cambridge Meaning:** Very much or very greatly.  
-**Sentence:** The new farming techniques have hugely improved crop yields in this area.  
+**Contextual Meaning:** Very much or a lot.  
+**Cambridge Meaning:** Very or extremely.  
+**Sentence:** She was hugely excited about the new movie coming out.  
 **Conversation:**  
-A – How has the new farming technology affected production  
-B – It has hugely increased our yields and profits.
-
----
+A – Why are you so happy today?  
+B – I’m hugely excited because the new movie is out!  
 
 ### Word: Hunger  
-**Contextual Meaning:** The physical condition caused by a lack of food, or the desire for food.  
-**Cambridge Meaning:** The physical feeling of needing food.  
-**Sentence:** Hunger is a persistent issue in many rural areas due to poor harvests.  
+**Contextual Meaning:** The feeling of needing food.  
+**Cambridge Meaning:** The feeling of needing or wanting food.  
+**Sentence:** After playing all afternoon, he felt hunger and went to eat.  
 **Conversation:**  
-A – What causes hunger in this region  
-B – It’s mainly due to crop failures and low food production.
+A – What do you feel now?  
+B – I feel hunger and need to eat something.  
 
----
-
-### Word: In Favour Of  
+### Word: In favour of  
 **Contextual Meaning:** Supporting or agreeing with something.  
-**Cambridge Meaning:** Supporting or agreeing with an idea or action.  
-**Sentence:** Many people are in favour of government support for smallholder farmers.  
+**Cambridge Meaning:** Showing approval for something.  
+**Sentence:** The teacher was in favour of the new idea for the project.  
 **Conversation:**  
-A – What do you think about the new farming policy  
-B – I’m in favour of it, especially for small farmers.
+A – Do you like the new plan?  
+B – Yes, I am in favour of it.  
 
----
-
-### Word: In Terms Of  
-**Contextual Meaning:** Considering or talking about a particular aspect of something.  
-**Cambridge Meaning:** With regard to a particular aspect or situation.  
-**Sentence:** In terms of market access, farmers in rural areas face major challenges.  
+### Word: In terms of  
+**Contextual Meaning:** When talking about a particular subject or aspect.  
+**Cambridge Meaning:** When considering a particular aspect.  
+**Sentence:** In terms of time, we don’t have enough to finish the project.  
 **Conversation:**  
-A – How is the market access for small farmers  
-B – In terms of infrastructure, it’s very limited.
-
----
+A – How are we doing with time?  
+B – In terms of time, we don’t have enough to finish today.  
 
 ### Word: Inability  
 **Contextual Meaning:** The state of not being able to do something.  
-**Cambridge Meaning:** The state of being unable to do something.  
-**Sentence:** The inability to access modern technology prevents many farmers from improving their yields.  
+**Cambridge Meaning:** The lack of ability to do something.  
+**Sentence:** His inability to speak English made it hard for him to understand the lesson.  
 **Conversation:**  
-A – Why can’t farmers increase their production  
-B – The inability to use new technology is a major barrier.
-
----
+A – Why didn’t he answer the question?  
+B – His inability to speak English made it difficult.  
 
 ### Word: Infrastructure  
-**Contextual Meaning:** The basic systems and services that are necessary for a society to function, such as roads, communication systems, etc.  
-**Cambridge Meaning:** The basic physical and organizational structures needed for the operation of a society.  
-**Sentence:** Poor infrastructure in rural areas makes it difficult for farmers to reach markets.  
+**Contextual Meaning:** The basic structures and systems needed for a society to function, like roads and schools.  
+**Cambridge Meaning:** The basic systems and structures needed for a society to work, like transport and communication systems.  
+**Sentence:** The city’s infrastructure includes roads, schools, and hospitals.  
 **Conversation:**  
-A – What’s the biggest challenge for farmers in this region  
-B – Poor infrastructure is a major problem for getting produce to market.
-
----
+A – What makes the city work?  
+B – The infrastructure like roads and hospitals are very important.  
 
 ### Word: Insecurity  
-**Contextual Meaning:** The lack of safety, stability, or certainty, particularly in relation to food or financial security.  
-**Cambridge Meaning:** The state of not feeling safe or confident.  
-**Sentence:** Food insecurity is a major issue in many developing countries, particularly among smallholder farmers.  
+**Contextual Meaning:** The feeling of not being safe or sure about something.  
+**Cambridge Meaning:** The feeling of being uncertain or unsafe.  
+**Sentence:** The man felt insecurity because he lost his job.  
 **Conversation:**  
-A – What’s the situation with food security here  
-B – Food insecurity is a big concern, especially after poor harvests.
-
----
+A – Why is he worried?  
+B – He feels insecurity after losing his job.  
 
 ### Word: Institute  
-**Contextual Meaning:** An organization or establishment dedicated to a specific cause or activity, such as education or research.  
-**Cambridge Meaning:** An organization with a specific purpose, such as education or research.  
-**Sentence:** The Institute of Agricultural Policy Research offers support to small farmers in the region.  
+**Contextual Meaning:** An organization or place for learning or research.  
+**Cambridge Meaning:** An organization or school for a special purpose, such as learning or research.  
+**Sentence:** She studied biology at the research institute.  
 **Conversation:**  
-A – Who is helping farmers in your area  
-B – The Institute of Agricultural Policy Research provides a lot of assistance.
-
----
+A – Where does she work?  
+B – She works at the research institute.  
 
 ### Word: Intermediary  
-**Contextual Meaning:** A person or organization that acts as a link between two parties in a transaction.  
-**Cambridge Meaning:** A person or organization that helps two parties to communicate or reach an agreement.  
-**Sentence:** Intermediaries often control the prices that farmers receive for their crops.  
+**Contextual Meaning:** A person or thing that helps two parties communicate or work together.  
+**Cambridge Meaning:** A person who acts as a link between two parties.  
+**Sentence:** The agent acted as an intermediary between the seller and buyer.  
 **Conversation:**  
-A – Why do farmers get such low prices for their goods  
-B – Intermediaries often take a large cut before selling to consumers.
-
----
+A – How did they make the deal?  
+B – They used an intermediary to help them talk.  
 
 ### Word: Intervention  
-**Contextual Meaning:** The act of becoming involved in a situation to change the outcome or improve conditions.  
-**Cambridge Meaning:** The action of becoming involved in a situation to change something.  
-**Sentence:** Government intervention is necessary to help mitigate the risks that small farmers face.  
+**Contextual Meaning:** The act of stepping in to help or change something.  
+**Cambridge Meaning:** The act of getting involved in a situation to change or improve it.  
+**Sentence:** The teacher’s intervention helped the students understand the lesson.  
 **Conversation:**  
-A – What can the government do to help farmers  
-B – They need to intervene with policies that support smallholder farmers.
+A – How did they learn the topic?  
+B – The teacher’s intervention made the lesson easier.  
 
----
 ### Word: Intuitively  
-**Contextual Meaning:** In a way that is based on instinctive understanding without the need for reasoning.  
-**Cambridge Meaning:** Based on feelings or understanding without the need for conscious thought.  
-**Sentence:** Farmers intuitively know when to plant their crops based on weather patterns.  
+**Contextual Meaning:** Understanding something without needing to think about it too much, just by feeling it.  
+**Cambridge Meaning:** In a way that involves instinct or a natural feeling.  
+**Sentence:** She intuitively knew that something was wrong when she saw him.  
 **Conversation:**  
-A – How do farmers decide the best time to plant  
-B – They do it intuitively, based on their experience and the weather.
-
----
+A – How did she know something was wrong?  
+B – She intuitively felt it from his face.  
 
 ### Word: Irrigation  
-**Contextual Meaning:** The artificial application of water to soil or land to help crops grow.  
-**Cambridge Meaning:** The process of supplying land with water so that crops can grow.  
-**Sentence:** Irrigation systems are essential for maintaining crops in dry regions.  
+**Contextual Meaning:** The process of supplying water to plants to help them grow.  
+**Cambridge Meaning:** The supply of water to land or crops to help them grow.  
+**Sentence:** The farmer used irrigation to water his crops during the dry season.  
 **Conversation:**  
-A – How do you water the fields during the dry season  
-B – We rely on an irrigation system to ensure crops get enough water.
-
----
+A – How do the crops get water?  
+B – They use irrigation to help them grow.  
 
 ### Word: Landowner  
-**Contextual Meaning:** A person who owns land, especially land used for farming.  
-**Cambridge Meaning:** A person who owns land, especially agricultural land.  
-**Sentence:** The landowner decided to lease part of the farm to other farmers.  
+**Contextual Meaning:** A person who owns land.  
+**Cambridge Meaning:** A person who owns a piece of land.  
+**Sentence:** The landowner decided to sell the farm to a new family.  
 **Conversation:**  
-A – Who owns the land you’re farming on  
-B – It’s owned by a local landowner who rents it out to us.
-
----
+A – Who owns the farm?  
+B – The landowner is selling it to a new family.  
 
 ### Word: Magnitude  
-**Contextual Meaning:** The great size, importance, or seriousness of something.  
-**Cambridge Meaning:** The size, extent, or importance of something.  
-**Sentence:** The magnitude of the drought has caused significant crop losses.  
+**Contextual Meaning:** The size or importance of something.  
+**Cambridge Meaning:** The size or importance of something.  
+**Sentence:** The magnitude of the earthquake was very large, but no one was hurt.  
 **Conversation:**  
-A – How bad is the drought this year  
-B – The magnitude of the drought is much worse than last year.
-
----
+A – Was the earthquake strong?  
+B – Yes, the magnitude was very large, but everyone was safe.  
 
 ### Word: Mitigate  
-**Contextual Meaning:** To make a situation or problem less severe or harmful.  
-**Cambridge Meaning:** To make something less harmful, serious, or painful.  
-**Sentence:** Governments must take action to mitigate the impact of climate change on farmers.  
+**Contextual Meaning:** To make something less harmful or less severe.  
+**Cambridge Meaning:** To make something less severe or serious.  
+**Sentence:** The medicine helped mitigate his pain after the injury.  
 **Conversation:**  
-A – What can be done to help farmers deal with climate change  
-B – We need policies that mitigate the risks and provide support.
-
----
+A – How is he feeling now?  
+B – The medicine helped mitigate his pain.  
 
 ### Word: Peasant  
-**Contextual Meaning:** A poor farmer or worker, especially one who works on land owned by someone else.  
-**Cambridge Meaning:** A poor farmer or agricultural laborer, especially in historical contexts.  
-**Sentence:** The peasants worked long hours in the fields to sustain their families.  
+**Contextual Meaning:** A poor farmer or worker in a small village.  
+**Cambridge Meaning:** A poor person who works on land or farms.  
+**Sentence:** The peasant worked hard to grow crops for his family.  
 **Conversation:**  
-A – Who works the land in this village  
-B – The peasants do most of the hard labor in the fields.
-
----
+A – What does the man do?  
+B – He is a peasant who grows food for his family.  
 
 ### Word: Poverty  
-**Contextual Meaning:** The state of being extremely poor or lacking basic necessities.  
-**Cambridge Meaning:** The state of being very poor or not having enough money for basic needs.  
-**Sentence:** Many smallholder farmers live in poverty due to poor harvests and high costs.  
+**Contextual Meaning:** The state of being very poor.  
+**Cambridge Meaning:** The state of being very poor and not having enough money.  
+**Sentence:** Many families live in poverty and need help with basic needs.  
 **Conversation:**  
-A – Why is there so much poverty in rural areas  
-B – It’s caused by poor harvests and a lack of access to resources.
+A – Why do they need help?  
+B – They live in poverty and don’t have enough money for food.  
 
----
 
 ### Word: Prevalent  
-**Contextual Meaning:** Widespread or commonly occurring in a particular area or among a group of people.  
-**Cambridge Meaning:** Existing or happening frequently or commonly.  
-**Sentence:** Malnutrition is prevalent in regions with low food security.  
+**Contextual Meaning:** Common or widespread.  
+**Cambridge Meaning:** Existing or happening frequently.  
+**Sentence:** It is prevalent to see many birds in the park during the spring.  
 **Conversation:**  
-A – Is malnutrition common in this region  
-B – Yes, it’s prevalent due to limited food availability.
-
----
+A – What birds do you see in the park?  
+B – It is prevalent to see lots of pigeons flying around.  
 
 ### Word: Procurement  
-**Contextual Meaning:** The process of obtaining or acquiring goods or services, often for business purposes.  
+**Contextual Meaning:** The act of getting something, often by buying it.  
 **Cambridge Meaning:** The process of obtaining goods or services.  
-**Sentence:** The government’s procurement of agricultural products helps stabilize prices.  
+**Sentence:** The school’s procurement of new books took a few weeks.  
 **Conversation:**  
-A – How does the government control food prices  
-B – They manage the procurement of crops to avoid shortages.
-
----
+A – How did the school get new books?  
+B – They handled the procurement and bought them from a store.  
 
 ### Word: Productive  
-**Contextual Meaning:** Capable of producing a lot or achieving a lot of results.  
-**Cambridge Meaning:** Producing good results or achieving a lot.  
-**Sentence:** The new farming methods have been very productive, increasing crop yields.  
+**Contextual Meaning:** Doing a lot of work or creating a lot.  
+**Cambridge Meaning:** Able to produce a lot or be very effective.  
+**Sentence:** She had a productive day at work and finished all her tasks.  
 **Conversation:**  
-A – How’s the farming project going  
-B – It’s been highly productive, with better yields than last year.
-
----
+A – How was your day at work?  
+B – It was very productive; I finished everything on my list.  
 
 ### Word: Rainfall  
-**Contextual Meaning:** The amount of rain that falls in a particular area over a period of time.  
-**Cambridge Meaning:** The amount of rain that falls during a particular period.  
-**Sentence:** The irregular rainfall patterns have caused crop failures in some areas.  
+**Contextual Meaning:** The amount of rain that falls in a place.  
+**Cambridge Meaning:** The amount of rain that falls in a particular area.  
+**Sentence:** The rainfall this month helped the plants grow.  
 **Conversation:**  
-A – How has the weather affected your crops  
-B – The unpredictable rainfall has caused significant damage to our fields.
-
----
+A – Why are the plants so green?  
+B – The rainfall this month was really good for them.  
 
 ### Word: Resilient  
-**Contextual Meaning:** Able to recover quickly from difficulties or challenges.  
-**Cambridge Meaning:** Able to recover quickly from difficult conditions.  
-**Sentence:** Some crop varieties are more resilient to extreme weather conditions.  
+**Contextual Meaning:** Able to recover quickly from difficulties.  
+**Cambridge Meaning:** Strong enough to recover from difficult situations.  
+**Sentence:** After the storm, the community was resilient and rebuilt the homes.  
 **Conversation:**  
-A – Do you think your crops will survive the drought  
-B – Yes, the resilient crops we planted should manage better in these conditions.
-
----
+A – How did the village recover after the storm?  
+B – They were very resilient and worked together to rebuild.  
 
 ### Word: Rural  
-**Contextual Meaning:** Relating to the countryside, rather than the city.  
-**Cambridge Meaning:** Relating to the countryside or country life.  
-**Sentence:** Many rural farmers face challenges due to limited access to markets and infrastructure.  
+**Contextual Meaning:** Relating to the countryside, not the city.  
+**Cambridge Meaning:** Relating to the countryside or farming areas.  
+**Sentence:** He lives in a rural village where there are many farms.  
 **Conversation:**  
-A – Where do most farmers live  
-B – Most of them live in rural areas where resources are scarce.
-
----
+A – Where does she live?  
+B – She lives in a rural area, far from the city.  
 
 ### Word: Scheme  
-**Contextual Meaning:** A planned set of actions or activities to achieve a specific goal.  
-**Cambridge Meaning:** An organized plan or system of doing something.  
-**Sentence:** The government introduced a new scheme to help farmers access financial aid.  
+**Contextual Meaning:** A plan or project, often to help others.  
+**Cambridge Meaning:** A plan or program intended to help achieve a goal.  
+**Sentence:** The government started a new scheme to help poor families.  
 **Conversation:**  
-A – What is the new government program for farmers  
-B – It’s a scheme to provide financial support for smallholders.
-
----
+A – What is the government doing to help?  
+B – They started a scheme to support families in need.  
 
 ### Word: Seasonal  
-**Contextual Meaning:** Occurring or changing at a particular time of year.  
-**Cambridge Meaning:** Relating to a particular season of the year.  
-**Sentence:** Many agricultural jobs are seasonal, dependent on planting and harvest periods.  
+**Contextual Meaning:** Happening or changing with the seasons.  
+**Cambridge Meaning:** Happening or being available at certain times of the year.  
+**Sentence:** Seasonal fruits like apples are available in the fall.  
 **Conversation:**  
-A – Is farming work available year-round  
-B – No, it’s mostly seasonal, with peak times during planting and harvest.
-
----
+A – What fruits are in season now?  
+B – Apples are seasonal, so they’re available this fall.  
 
 ### Word: Senior  
-**Contextual Meaning:** A person who holds a higher or more important position.  
-**Cambridge Meaning:** Having a higher position or rank in an organization.  
-**Sentence:** The senior advisor suggested a new approach to address food insecurity.  
+**Contextual Meaning:** Older or higher in rank.  
+**Cambridge Meaning:** Older, or having a higher position or rank.  
+**Sentence:** The senior students helped the younger ones with their homework.  
 **Conversation:**  
-A – Who made the final decision on the project  
-B – The senior advisor gave the final approval.
-
----
+A – Who helped you with the project?  
+B – The senior students gave me advice on how to do it.  
 
 ### Word: Smallholder  
-**Contextual Meaning:** A farmer who owns or operates a small piece of land.  
-**Cambridge Meaning:** A person who owns or works a small piece of land.  
-**Sentence:** Smallholders often struggle to compete with larger commercial farms.  
+**Contextual Meaning:** A person who owns a small farm.  
+**Cambridge Meaning:** A person who owns a small farm or land.  
+**Sentence:** The smallholder grows vegetables for his family and local market.  
 **Conversation:**  
-A – Who are the main farmers in this region  
-B – Most of them are smallholders, working on small family farms.
-
----
+A – What does the man do for a living?  
+B – He’s a smallholder who grows food on his land.  
 
 ### Word: Soil  
-**Contextual Meaning:** The top layer of earth where plants grow, containing nutrients.  
-**Cambridge Meaning:** The substance on the surface of the ground in which plants grow.  
-**Sentence:** Soil quality is crucial for growing healthy crops and increasing yields.  
+**Contextual Meaning:** The ground or earth where plants grow.  
+**Cambridge Meaning:** The top layer of earth in which plants grow.  
+**Sentence:** The soil in the garden is rich and good for growing flowers.  
 **Conversation:**  
-A – How do you improve soil for farming  
-B – We use organic fertilizers to improve soil quality.
-
----
+A – How are the plants doing?  
+B – The soil is perfect for them to grow strong.  
 
 ### Word: Stakeholder  
-**Contextual Meaning:** A person, group, or organization with an interest in a particular issue or outcome.  
-**Cambridge Meaning:** A person or organization with an interest or concern in something.  
-**Sentence:** All stakeholders, including farmers, governments, and businesses, must collaborate to solve food insecurity.  
+**Contextual Meaning:** A person or group that has an interest or concern in something.  
+**Cambridge Meaning:** A person or organization that has an interest in a particular project or activity.  
+**Sentence:** The teachers, parents, and students are all stakeholders in the school’s success.  
 **Conversation:**  
-A – Who is involved in solving the issue of food insecurity  
-B – Many stakeholders are working together, from farmers to governments.
-
----
+A – Who cares about the school’s progress?  
+B – Teachers, parents, and students are all stakeholders.  
 
 ### Word: Stranglehold  
-**Contextual Meaning:** A situation in which someone or something has complete control over something.  
-**Cambridge Meaning:** Complete control over something or someone.  
-**Sentence:** Large agribusinesses often have a stranglehold on the local food markets.  
+**Contextual Meaning:** A strong grip or control over something.  
+**Cambridge Meaning:** A powerful control or influence over something.  
+**Sentence:** The big company had a stranglehold on the market and stopped smaller businesses from growing.  
 **Conversation:**  
-A – Why is it difficult for small farmers to succeed  
-B – Large companies have a stranglehold on the market, making it hard for them to compete.
+A – Why can’t the small businesses grow?  
+B – The big company has a stranglehold on the market.  
 
----
+### Word: Strengthen  
+**Contextual Meaning:** To make something stronger or better.  
+**Cambridge Meaning:** To make something stronger or more effective.  
+**Sentence:** The teacher gave extra lessons to strengthen the students’ math skills.  
+**Conversation:**  
+A – How can I improve my math?  
+B – Extra lessons will help strengthen your skills.  
+
+### Word: Subscription  
+**Contextual Meaning:** Paying regularly to receive something, like a magazine or service.  
+**Cambridge Meaning:** The act of paying to receive something regularly.  
+**Sentence:** She signed up for a subscription to receive her favorite magazine every month.  
+**Conversation:**  
+A – How do you get your magazine?  
+B – I have a subscription, so it comes every month.  
+
+### Word: Subsidy  
+**Contextual Meaning:** Money given by the government to help people or businesses.  
+**Cambridge Meaning:** Financial assistance given by the government to help with the cost of something.  
+**Sentence:** The government gave a subsidy to farmers to help them grow crops.  
+**Conversation:**  
+A – How do the farmers get help?  
+B – They receive a subsidy from the government.  
+
+### Word: Sufficient  
+**Contextual Meaning:** Enough to meet the needs.  
+**Cambridge Meaning:** Enough to satisfy the needs.  
+**Sentence:** He had sufficient money to buy everything he needed.  
+**Conversation:**  
+A – Do you have enough money for the trip?  
+B – Yes, I have sufficient funds for everything.  
+
+### Word: Swing  
+**Contextual Meaning:** A movement back and forth or a sudden change.  
+**Cambridge Meaning:** A movement back and forth or a big change.  
+**Sentence:** The swing moved high in the air during playtime.  
+**Conversation:**  
+A – What is that thing moving in the park?  
+B – It’s a swing, going back and forth.  
+
+### Word: Synthesis  
+**Contextual Meaning:** Combining different ideas or things to make something new.  
+**Cambridge Meaning:** Combining different ideas or things to create a whole.  
+**Sentence:** The artist created a beautiful painting using a synthesis of colors.  
+**Conversation:**  
+A – How did she make the painting?  
+B – She used a synthesis of many bright colors to create it.  
+
+### Word: Trader  
+**Contextual Meaning:** A person who buys and sells things, especially for a living.  
+**Cambridge Meaning:** A person who buys and sells things as a job.  
+**Sentence:** The trader sells fruits at the local market every day.  
+**Conversation:**  
+A – What does he do for work?  
+B – He is a trader and sells fruits at the market.  
+
+### Word: Transparency  
+**Contextual Meaning:** The quality of being open and clear, especially in business or decision-making.  
+**Cambridge Meaning:** The quality of being clear and open, without hiding anything.  
+**Sentence:** The company is known for its transparency and always shares honest information.  
+**Conversation:**  
+A – Why do people trust that company?  
+B – They have good transparency and share everything openly.  
+
+### Word: Uncertainty  
+**Contextual Meaning:** Not being sure about something, often due to lack of information.  
+**Cambridge Meaning:** A situation where things are unclear or not known.  
+**Sentence:** There was uncertainty about the weather, so the event was postponed.  
+**Conversation:**  
+A – Will the event be on today?  
+B – There is uncertainty because of the rain.  
+
+### Word: Underlie  
+**Contextual Meaning:** To be the cause or basis of something.  
+**Cambridge Meaning:** To be the reason or foundation for something.  
+**Sentence:** The need for safety underlies the rules at school.  
+**Conversation:**  
+A – Why do we have so many rules?  
+B – The need for safety underlies all the rules.  
+
+### Word: Unpredictability  
+**Contextual Meaning:** When something is difficult to predict or expect.  
+**Cambridge Meaning:** The quality of being difficult to predict.  
+**Sentence:** The unpredictability of the weather made it hard to plan the picnic.  
+**Conversation:**  
+A – Why did you cancel the picnic?  
+B – The unpredictability of the weather made us cancel it.  
+
+### Word: Variation  
+**Contextual Meaning:** A change or difference in something.  
+**Cambridge Meaning:** A change or difference in something.  
+**Sentence:** There is a variation in the size of the apples from different trees.  
+**Conversation:**  
+A – Why are the apples different sizes?  
+B – There is a variation between the trees in the garden.  
+
+### Word: Volatility  
+**Contextual Meaning:** The quality of being unstable or changing quickly.  
+**Cambridge Meaning:** The quality of changing quickly and often.  
+**Sentence:** The stock market shows volatility, so prices go up and down a lot.  
+**Conversation:**  
+A – Why did the prices change so quickly?  
+B – The volatility of the market caused it.  
+
+### Word: Vulnerability  
+**Contextual Meaning:** The quality of being open to harm or damage.  
+**Cambridge Meaning:** The state of being weak and easily harmed.  
+**Sentence:** The vulnerability of the building to earthquakes is a concern.  
+**Conversation:**  
+A – Why do we need to fix the house?  
+B – Its vulnerability to earthquakes could cause problems.  
+
+### Word: Vulnerable  
+**Contextual Meaning:** Easy to hurt or damage, or not strong.  
+**Cambridge Meaning:** In a situation where you are easily hurt or harmed.  
+**Sentence:** The baby bird was vulnerable without its nest.  
+**Conversation:**  
+A – Why is the bird so weak?  
+B – It is vulnerable because it doesn’t have its nest.  
+
+### Word: Welfare  
+**Contextual Meaning:** The health, happiness, and comfort of people.  
+**Cambridge Meaning:** The well-being of a person or group, especially in terms of health and happiness.  
+**Sentence:** The welfare of the children is the most important thing at school.  
+**Conversation:**  
+A – What is the school’s top priority?  
+B – The welfare of the children comes first.  
+
+### Word: Wild Swing  
+**Contextual Meaning:** A big, sudden change in something, like prices or opinions.  
+**Cambridge Meaning:** A sudden change, often large or extreme.  
+**Sentence:** The price of toys had a wild swing during the holiday season.  
+**Conversation:**  
+A – Why did the price change so much?  
+B – There was a wild swing in prices because of the holidays.  
+
+### Word: Worldwide  
+**Contextual Meaning:** Everywhere in the world.  
+**Cambridge Meaning:** Happening or existing in all parts of the world.  
+**Sentence:** The company sells its products worldwide, from Asia to America.  
+**Conversation:**  
+A – Where do they sell their products?  
+B – They sell them worldwide, in many countries.  
+
+### Word: Yield  
+**Contextual Meaning:** To produce or provide something, like crops or results.  
+**Cambridge Meaning:** To give or provide something, especially crops or profits.  
+**Sentence:** The farm's crops yield a lot of vegetables every year.  
+**Conversation:**  
+A – How much do they harvest each year?  
+B – Their farm yields many vegetables every season.  

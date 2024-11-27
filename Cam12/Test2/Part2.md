@@ -1,21 +1,3 @@
-
-
-plateau
-precede
-prey
-prospect
-pursuit
-reveal
-significance
-spectacular
-spellbind
-staircase
-substantial
-sweep
-terrace
-thereby
-valley
-
 # The Lost City - Reading Comprehension Exercise
 
 **An explorer’s encounter with the ruined city of Machu Picchu, the most famous icon of the Inca civilization**
@@ -240,3 +222,274 @@ B – Yes, I am a descendant of the original settlers here.
 A – Why are you rushing  
 B – I’m desperate to finish this report before the meeting starts.
 
+### Word: Dimension  
+**Contextual Meaning:** A measurement of length, width, height, or depth.  
+**Cambridge Meaning:** A measurement of the size of something.  
+**Sentence:** The dimension of the box was too large to fit in the car.  
+**Conversation:**  
+A – How big is the table?  
+B – Its dimension is 2 meters long and 1 meter wide.  
+
+### Word: Elevation  
+**Contextual Meaning:** The height above a specific point, often sea level.  
+**Cambridge Meaning:** The height of a place or object above the level of the sea.  
+**Sentence:** The elevation of the mountain was over 3,000 meters.  
+**Conversation:**  
+A – How high is the hill?  
+B – Its elevation is about 500 meters above sea level.  
+
+### Word: Emperor  
+**Contextual Meaning:** A ruler of an empire.  
+**Cambridge Meaning:** The male ruler of an empire.  
+**Sentence:** The emperor ruled the land with great power and respect.  
+**Conversation:**  
+A – Who ruled the country long ago?  
+B – It was the emperor who controlled the entire empire.  
+
+### Word: Enable  
+**Contextual Meaning:** To make something possible or allow something to happen.  
+**Cambridge Meaning:** To make something possible.  
+**Sentence:** The new software will enable us to finish the task faster.  
+**Conversation:**  
+A – Can we start now?  
+B – Yes, the new system will enable us to work more efficiently.  
+
+### Word: Enthusiasm  
+**Contextual Meaning:** A strong feeling of excitement or interest.  
+**Cambridge Meaning:** Great excitement or interest.  
+**Sentence:** Her enthusiasm for reading made her a great student.  
+**Conversation:**  
+A – Why do you like painting?  
+B – I have a lot of enthusiasm for creating art.  
+
+### Word: Estate  
+**Contextual Meaning:** A large area of land, often with a large house.  
+**Cambridge Meaning:** A large area of land, often with a house on it.  
+**Sentence:** They own a large estate in the countryside.  
+**Conversation:**  
+A – What does your uncle own?  
+B – He owns a huge estate with a big house and garden.  
+
+### Word: Expectation  
+**Contextual Meaning:** A belief about what will happen in the future.  
+**Cambridge Meaning:** A belief that something will happen.  
+**Sentence:** She had high expectations for her first day at work.  
+**Conversation:**  
+A – How was the concert?  
+B – It was better than my expectation, I loved it!  
+
+### Word: Exploration  
+**Contextual Meaning:** The action of traveling to discover new places or things.  
+**Cambridge Meaning:** The act of traveling to find new places or things.  
+**Sentence:** The exploration of the deep ocean is still a big challenge.  
+**Conversation:**  
+A – What do you like to do in your free time?  
+B – I enjoy exploration, especially hiking in new places.  
+
+### Word: Explorer  
+**Contextual Meaning:** A person who travels to new places to learn about them.  
+**Cambridge Meaning:** A person who goes on an adventure to discover new places.  
+**Sentence:** The explorer discovered new lands that no one had seen before.  
+**Conversation:**  
+A – What was his job?  
+B – He was an explorer who traveled around the world.  
+
+### Word: Hindsight  
+**Contextual Meaning:** The ability to understand a situation after it has happened.  
+**Cambridge Meaning:** Understanding a situation after it has happened.  
+**Sentence:** In hindsight, I should have studied harder for the test.  
+**Conversation:**  
+A – Did you do well in the exam?  
+B – Not really, but with hindsight, I see where I went wrong.  
+
+### Word: Hinterland  
+**Contextual Meaning:** A remote or less developed area.  
+**Cambridge Meaning:** A region that is far from the cities.  
+**Sentence:** The village is located in the hinterland, far from the nearest town.  
+**Conversation:**  
+A – Where do you live?  
+B – I live in the hinterland, it's very peaceful here.  
+
+### Word: Inaccurate  
+**Contextual Meaning:** Not correct or wrong.  
+**Cambridge Meaning:** Not correct or precise.  
+**Sentence:** The information in the report was inaccurate, so we had to fix it.  
+**Conversation:**  
+A – Is this data correct?  
+B – No, it's inaccurate, we need to check it again.  
+
+### Word: Magazine  
+**Contextual Meaning:** A publication that is printed regularly, like a newspaper but with more pictures.  
+**Cambridge Meaning:** A publication with articles and pictures, usually on specific topics.  
+**Sentence:** She reads a fashion magazine every month.  
+**Conversation:**  
+A – What do you like to read?  
+B – I enjoy reading magazines about travel and adventure.  
+
+### Word: Magnificent  
+**Contextual Meaning:** Extremely beautiful, impressive, or grand.  
+**Cambridge Meaning:** Extremely beautiful or impressive.  
+**Sentence:** The view from the mountain top was absolutely magnificent.  
+**Conversation:**  
+A – How was the sunset?  
+B – It was magnificent, the sky was full of beautiful colors.  
+
+### Word: Mausoleum  
+**Contextual Meaning:** A large building where a dead person's body is kept.  
+**Cambridge Meaning:** A large, grand building for the tomb of a dead person.  
+**Sentence:** They visited a famous mausoleum where a king was buried.  
+**Conversation:**  
+A – Where is the king buried?  
+B – He is buried in a large mausoleum in the city.  
+
+### Word: Monumental  
+**Contextual Meaning:** Very large or important.  
+**Cambridge Meaning:** Extremely large or important.  
+**Sentence:** The monumental statue stood in the middle of the city square.  
+**Conversation:**  
+A – What did you think of the building?  
+B – It was monumental, I’ve never seen anything so big.  
+
+### Word: Mounting  
+**Contextual Meaning:** Increasing in amount or intensity.  
+**Cambridge Meaning:** Increasing in amount or level.  
+**Sentence:** The mounting pressure made the team work harder.  
+**Conversation:**  
+A – Are you feeling stressed?  
+B – Yes, the mounting deadlines are making me nervous.  
+
+### Word: Mule  
+**Contextual Meaning:** A type of animal used for carrying loads.  
+**Cambridge Meaning:** An animal that is a mix of a horse and a donkey, often used for carrying things.  
+**Sentence:** The mule carried the heavy bags up the mountain.  
+**Conversation:**  
+A – What animal is that?  
+B – It’s a mule, used for carrying heavy loads.  
+
+### Word: Perplex  
+**Contextual Meaning:** To confuse someone or make them feel uncertain.  
+**Cambridge Meaning:** To confuse someone or make something hard to understand.  
+**Sentence:** The puzzle perplexed him for hours before he solved it.  
+**Conversation:**  
+A – Are you okay with the instructions?  
+B – No, they perplex me; I’m not sure what to do.
+
+### Word: Plateau  
+**Contextual Meaning:** A large, flat area of land.  
+**Cambridge Meaning:** A large, flat area of land that is higher than the land around it.  
+**Sentence:** The village was built on a high plateau above the river.  
+**Conversation:**  
+A – Where is your house?  
+B – It is on a plateau, so we have a great view.  
+
+### Word: Precede  
+**Contextual Meaning:** To come before something in time or order.  
+**Cambridge Meaning:** To come before something in time or position.  
+**Sentence:** The meeting will precede the lunch break.  
+**Conversation:**  
+A – When does the class start?  
+B – It will precede the lunch, around 12 o'clock.  
+
+### Word: Prey  
+**Contextual Meaning:** An animal that is hunted and eaten by another animal.  
+**Cambridge Meaning:** An animal that is hunted and eaten by other animals.  
+**Sentence:** A lion hunts its prey in the wild.  
+**Conversation:**  
+A – What do lions eat?  
+B – Lions hunt their prey, like deer or antelope.  
+
+### Word: Prospect  
+**Contextual Meaning:** The possibility or chance of something happening in the future.  
+**Cambridge Meaning:** The chance or possibility of something happening.  
+**Sentence:** The prospect of traveling to a new country excites me.  
+**Conversation:**  
+A – Do you like the idea of moving?  
+B – Yes, the prospect of a new adventure is exciting.  
+
+### Word: Pursuit  
+**Contextual Meaning:** The act of following or trying to achieve something.  
+**Cambridge Meaning:** The act of trying to get or achieve something.  
+**Sentence:** His pursuit of knowledge never stopped.  
+**Conversation:**  
+A – What do you want to study?  
+B – I am in pursuit of learning about space and stars.  
+
+### Word: Reveal  
+**Contextual Meaning:** To make something known that was hidden.  
+**Cambridge Meaning:** To show or make something known.  
+**Sentence:** The magician will reveal his secret trick.  
+**Conversation:**  
+A – How did he do that?  
+B – He will reveal the trick at the end of the show.  
+
+### Word: Significance  
+**Contextual Meaning:** The importance or meaning of something.  
+**Cambridge Meaning:** The importance of something.  
+**Sentence:** The teacher explained the significance of the lesson.  
+**Conversation:**  
+A – Why is this project important?  
+B – The significance is that it teaches us teamwork.  
+
+### Word: Spectacular  
+**Contextual Meaning:** Very impressive or beautiful to look at.  
+**Cambridge Meaning:** Very beautiful or impressive.  
+**Sentence:** The fireworks show was absolutely spectacular.  
+**Conversation:**  
+A – How was the parade?  
+B – It was spectacular, with colorful floats and dancers!  
+
+### Word: Spellbind  
+**Contextual Meaning:** To hold someone's attention completely, often because something is very interesting.  
+**Cambridge Meaning:** To hold someone's attention completely.  
+**Sentence:** The story of the hero’s journey spellbound everyone in the room.  
+**Conversation:**  
+A – Did you like the movie?  
+B – Yes, the film was so exciting, it spellbound me!  
+
+### Word: Staircase  
+**Contextual Meaning:** A set of stairs inside a building.  
+**Cambridge Meaning:** A set of stairs inside a building.  
+**Sentence:** They climbed the staircase to reach the top of the tower.  
+**Conversation:**  
+A – How do we get upstairs?  
+B – Just go up the staircase to the second floor.  
+
+### Word: Substantial  
+**Contextual Meaning:** Large in amount, size, or importance.  
+**Cambridge Meaning:** Large in amount, size, or importance.  
+**Sentence:** He made a substantial donation to the charity.  
+**Conversation:**  
+A – Did you give money to the cause?  
+B – Yes, I made a substantial contribution to help.  
+
+### Word: Sweep  
+**Contextual Meaning:** To move or push something in a particular direction with a fast movement.  
+**Cambridge Meaning:** To move something in a particular direction with a quick motion.  
+**Sentence:** She used a broom to sweep the floor clean.  
+**Conversation:**  
+A – What are you doing?  
+B – I’m sweeping the floor before dinner.  
+
+### Word: Terrace  
+**Contextual Meaning:** A flat area or platform outside a building, often with a view.  
+**Cambridge Meaning:** A flat area or platform outside a building.  
+**Sentence:** They sat on the terrace and watched the sunset.  
+**Conversation:**  
+A – Where are you sitting?  
+B – I’m sitting on the terrace, enjoying the view.  
+
+### Word: Thereby  
+**Contextual Meaning:** As a result of something.  
+**Cambridge Meaning:** By that means or because of that.  
+**Sentence:** He worked hard, thereby earning a promotion.  
+**Conversation:**  
+A – Why did she get the job?  
+B – She worked hard, thereby proving her skills.  
+
+### Word: Valley  
+**Contextual Meaning:** A low area of land between hills or mountains.  
+**Cambridge Meaning:** A low area of land between hills or mountains.  
+**Sentence:** The river flows through the narrow valley between the mountains.  
+**Conversation:**  
+A – What can we see from the top?  
+B – We can see the beautiful valley and the river below.  
