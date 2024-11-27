@@ -33,7 +33,7 @@ Some participants explained that market price volatility is often worsened by th
 ## Questions 1-3  
 Reading Passage 1 has nine paragraphs, A-I.  
 
-Which paragraph contains the following information?  
+Which paragraph contains the following information  
 Write the correct letter, A-I, in boxes 1-3 on your answer sheet.
 
 1. a reference to characteristics that only apply to food production  
@@ -72,7 +72,7 @@ G. Sonali Bisht
 Choose TWO letters, A-E.  
 Write the correct letters in boxes 10 and 11 on your answer sheet.  
 
-Which TWO problems are mentioned which affect farmers with small farms in developing countries?  
+Which TWO problems are mentioned which affect farmers with small farms in developing countries  
 A. lack of demand for locally produced food  
 B. lack of irrigation programmes  
 C. being unable to get insurance  
@@ -85,7 +85,7 @@ E. having to sell their goods to intermediary buyers
 Choose TWO letters, A-E.  
 Write the correct letters in boxes 12 and 13 on your answer sheet.  
 
-Which TWO actions are recommended for improving conditions for farmers?  
+Which TWO actions are recommended for improving conditions for farmers  
 A. reducing the size of food stocks  
 B. attempting to ensure that prices rise at certain times of the year  
 C. organising co-operation between a wide range of interested parties  
@@ -98,7 +98,7 @@ E. making customers aware of the reasons for changing food prices
 **Cambridge Meaning:** Enough or satisfactory for a particular purpose.  
 **Sentence:** The smallholder farmers have adequate resources to sustain their families.  
 **Conversation:**  
-A – Do you think the farm will be enough to support us?  
+A – Do you think the farm will be enough to support us  
 B – Yes, the land provides adequate crops for the season.
 
 ---
@@ -108,7 +108,7 @@ B – Yes, the land provides adequate crops for the season.
 **Cambridge Meaning:** Enough stock to meet demand.  
 **Sentence:** The government ensures there are adequate stocks of food during emergencies.  
 **Conversation:**  
-A – Do you think we have enough food for the winter?  
+A – Do you think we have enough food for the winter  
 B – Yes, the warehouse has adequate stocks for the next few months.
 
 ---
@@ -118,7 +118,7 @@ B – Yes, the warehouse has adequate stocks for the next few months.
 **Cambridge Meaning:** To take up or start using something.  
 **Sentence:** The farm adopted new irrigation techniques to conserve water.  
 **Conversation:**  
-A – Have you started using the new planting methods?  
+A – Have you started using the new planting methods  
 B – Yes, we adopted them last season, and they’re working well.
 
 ---
@@ -128,7 +128,7 @@ B – Yes, we adopted them last season, and they’re working well.
 **Cambridge Meaning:** The act of taking something as your own, such as a method or system.  
 **Sentence:** The adoption of new farming technology helped increase crop yields.  
 **Conversation:**  
-A – How did the farm improve its productivity?  
+A – How did the farm improve its productivity  
 B – The adoption of better equipment played a big role.
 
 ---
@@ -138,7 +138,7 @@ B – The adoption of better equipment played a big role.
 **Cambridge Meaning:** Having a negative or harmful effect.  
 **Sentence:** The adverse effects of the drought were felt across the region.  
 **Conversation:**  
-A – How did the drought affect your crops?  
+A – How did the drought affect your crops  
 B – The adverse conditions led to a significant drop in yield.
 
 ---
@@ -148,7 +148,7 @@ B – The adverse conditions led to a significant drop in yield.
 **Cambridge Meaning:** Someone who provides guidance or advice.  
 **Sentence:** The farmer consulted an advisor about improving soil health.  
 **Conversation:**  
-A – Have you asked anyone for advice about the harvest?  
+A – Have you asked anyone for advice about the harvest  
 B – Yes, I spoke to an advisor from the agricultural department.
 
 ---
@@ -158,7 +158,7 @@ B – Yes, I spoke to an advisor from the agricultural department.
 **Cambridge Meaning:** Businesses related to the production and sale of food and farm products.  
 **Sentence:** Agribusinesses are crucial in ensuring the stability of food markets.  
 **Conversation:**  
-A – Do you think the agribusiness sector is growing?  
+A – Do you think the agribusiness sector is growing  
 B – Yes, it’s expanding with new technologies and better distribution systems.
 
 ---
@@ -168,7 +168,7 @@ B – Yes, it’s expanding with new technologies and better distribution system
 **Cambridge Meaning:** Relating to farming or the cultivation of crops.  
 **Sentence:** Agricultural development is key to improving food security.  
 **Conversation:**  
-A – What is your area of expertise in the economy?  
+A – What is your area of expertise in the economy  
 B – I work in agricultural policy development.
 
 ---
@@ -178,7 +178,7 @@ B – I work in agricultural policy development.
 **Cambridge Meaning:** The science or practice of farming, including growing crops and raising animals.  
 **Sentence:** Agriculture forms the backbone of the local economy in rural areas.  
 **Conversation:**  
-A – How does your country rely on agriculture?  
+A – How does your country rely on agriculture  
 B – Agriculture is the primary source of income for many communities.
 
 ---
@@ -188,7 +188,7 @@ B – Agriculture is the primary source of income for many communities.
 **Cambridge Meaning:** To make something less severe or more bearable.  
 **Sentence:** The government’s relief programs aim to alleviate hunger during times of crisis.  
 **Conversation:**  
-A – How can we reduce the effects of the drought?  
+A – How can we reduce the effects of the drought  
 B – We need to alleviate water shortages by using better irrigation systems.
 
 ---
@@ -198,7 +198,7 @@ B – We need to alleviate water shortages by using better irrigation systems.
 **Cambridge Meaning:** The act of helping or providing support.  
 **Sentence:** Farmers in need of assistance can apply for government subsidies.  
 **Conversation:**  
-A – How did you manage to expand your farm?  
+A – How did you manage to expand your farm  
 B – We received financial assistance from a local agricultural fund.
 
 ---
@@ -208,7 +208,7 @@ B – We received financial assistance from a local agricultural fund.
 **Cambridge Meaning:** Self-governing or independent.  
 **Sentence:** The rural community has become more autonomous by managing their own resources.  
 **Conversation:**  
-A – How does your village make decisions?  
+A – How does your village make decisions  
 B – We are more autonomous now, managing most of our agricultural activities.
 
 ---
@@ -217,7 +217,7 @@ B – We are more autonomous now, managing most of our agricultural activities.
 **Cambridge Meaning:** The ability to influence others in negotiations.  
 **Sentence:** Farmers gain more bargaining power when they work together as a group.  
 **Conversation:**  
-A – How can small farmers improve their position in the market?  
+A – How can small farmers improve their position in the market  
 B – By joining a cooperative, they can increase their bargaining power.
 
 ---
@@ -227,7 +227,7 @@ B – By joining a cooperative, they can increase their bargaining power.
 **Cambridge Meaning:** A person or group who receives benefits or gains from something.  
 **Sentence:** The rural farmers were the primary beneficiaries of the new subsidy program.  
 **Conversation:**  
-A – Who will benefit most from the new farming initiative?  
+A – Who will benefit most from the new farming initiative  
 B – The smallholder farmers are the main beneficiaries.
 
 ---
@@ -237,7 +237,7 @@ B – The smallholder farmers are the main beneficiaries.
 **Cambridge Meaning:** A typical quality or feature of something.  
 **Sentence:** A characteristic of successful farms is efficient water management.  
 **Conversation:**  
-A – What makes your farm stand out?  
+A – What makes your farm stand out  
 B – One characteristic is our focus on sustainable practices.
 
 ---
@@ -247,7 +247,7 @@ B – One characteristic is our focus on sustainable practices.
 **Cambridge Meaning:** The typical weather conditions in a place over a period of time.  
 **Sentence:** The changing climate is affecting crop yields across many regions.  
 **Conversation:**  
-A – How has the weather been this year?  
+A – How has the weather been this year  
 B – The climate has been unpredictable, and crops are suffering.
 
 ---
@@ -257,7 +257,7 @@ B – The climate has been unpredictable, and crops are suffering.
 **Cambridge Meaning:** Done or shared by all members of a group.  
 **Sentence:** The collective effort of farmers improved the community's food security.  
 **Conversation:**  
-A – How did the community manage to get better prices for their produce?  
+A – How did the community manage to get better prices for their produce  
 B – They formed a collective to negotiate with suppliers.
 
 ---
@@ -267,7 +267,7 @@ B – They formed a collective to negotiate with suppliers.
 **Cambridge Meaning:** Someone who describes and explains events, especially on television or radio.  
 **Sentence:** The commentator highlighted the challenges farmers face in rural areas.  
 **Conversation:**  
-A – Who is talking about the challenges in the farming industry?  
+A – Who is talking about the challenges in the farming industry  
 B – It’s the commentator from the agricultural news channel.
 
 ---
@@ -277,7 +277,7 @@ B – It’s the commentator from the agricultural news channel.
 **Cambridge Meaning:** A basic item or product that is bought and sold.  
 **Sentence:** Rice is one of the most important commodities in many developing countries.  
 **Conversation:**  
-A – What crops are most in demand in your country?  
+A – What crops are most in demand in your country  
 B – Rice and wheat are the most valuable commodities here.
 
 ---
@@ -287,7 +287,7 @@ B – Rice and wheat are the most valuable commodities here.
 **Cambridge Meaning:** To give someone something, usually money, in exchange for something they have lost.  
 **Sentence:** The government plans to compensate farmers who lost their crops due to floods.  
 **Conversation:**  
-A – How will the farmers recover from the damage?  
+A – How will the farmers recover from the damage  
 B – They will be compensated for their losses by the state.
 
 ---
@@ -297,7 +297,7 @@ B – They will be compensated for their losses by the state.
 **Cambridge Meaning:** A result or effect of something, often negative.  
 **Sentence:** The consequence of not addressing climate change is a decline in crop productivity.  
 **Conversation:**  
-A – What will happen if we don't act on this?  
+A – What will happen if we don't act on this  
 B – The consequence will be a significant loss in agricultural yields.
 
 ---
@@ -307,7 +307,7 @@ B – The consequence will be a significant loss in agricultural yields.
 **Cambridge Meaning:** To eat or drink something.  
 **Sentence:** People consume more food during the harvest season.  
 **Conversation:**  
-A – How much food do you need for the village?  
+A – How much food do you need for the village  
 B – We consume a lot during the harvest, especially rice and vegetables.
 
 ---
@@ -317,7 +317,7 @@ B – We consume a lot during the harvest, especially rice and vegetables.
 **Cambridge Meaning:** To argue or state something in a discussion.  
 **Sentence:** Many experts contend that more sustainable farming practices are necessary for long-term food security.  
 **Conversation:**  
-A – What do you think about the future of farming?  
+A – What do you think about the future of farming  
 B – I contend that we need to focus on sustainability and less on chemical use.
 
 ---
@@ -327,7 +327,7 @@ B – I contend that we need to focus on sustainability and less on chemical use
 **Cambridge Meaning:** In a way that seems to be the opposite of what you would expect.  
 **Sentence:** Counter-intuitively, less water usage can sometimes increase crop yields when managed properly.  
 **Conversation:**  
-A – Does reducing water usage hurt crops?  
+A – Does reducing water usage hurt crops  
 B – Counter-intuitively, it can actually improve growth if done correctly.
 
 ---
@@ -337,7 +337,7 @@ B – Counter-intuitively, it can actually improve growth if done correctly.
 **Cambridge Meaning:** A state of relying on something for support or existence.  
 **Sentence:** The region's dependency on rainfall for crops makes farming highly unpredictable.  
 **Conversation:**  
-A – Why is farming so risky in this area?  
+A – Why is farming so risky in this area  
 B – The dependency on consistent rainfall is a major issue.
 
 ---
@@ -347,7 +347,7 @@ B – The dependency on consistent rainfall is a major issue.
 **Cambridge Meaning:** Needing something or someone for support.  
 **Sentence:** Smallholder farmers are often dependent on government subsidies to survive.  
 **Conversation:**  
-A – How do farmers manage when prices drop?  
+A – How do farmers manage when prices drop  
 B – They are dependent on government aid in such cases.
 
 ---
@@ -357,7 +357,7 @@ B – They are dependent on government aid in such cases.
 **Cambridge Meaning:** To recognize or point out the differences between things.  
 **Sentence:** It’s important to distinguish between different types of crops to ensure proper care.  
 **Conversation:**  
-A – How do you know which crops need more water?  
+A – How do you know which crops need more water  
 B – You have to distinguish between them based on their needs.
 
 ---
@@ -367,7 +367,7 @@ B – You have to distinguish between them based on their needs.
 **Cambridge Meaning:** The process of spreading something across a place.  
 **Sentence:** The distribution of food during crises often determines the success of relief efforts.  
 **Conversation:**  
-A – How did the food reach all the villagers?  
+A – How did the food reach all the villagers  
 B – The distribution was organized by the local government and NGOs.
 
 ---
@@ -377,7 +377,7 @@ B – The distribution was organized by the local government and NGOs.
 **Cambridge Meaning:** To make more varied or different.  
 **Sentence:** Farmers are advised to diversify their crops to reduce the risk of total crop failure.  
 **Conversation:**  
-A – Why do you plant so many different crops?  
+A – Why do you plant so many different crops  
 B – I diversify to avoid losing everything if one crop fails.
 
 ---
@@ -387,7 +387,7 @@ B – I diversify to avoid losing everything if one crop fails.
 **Cambridge Meaning:** In a way that achieves maximum productivity with minimum wasted effort.  
 **Sentence:** The new irrigation system allows the farm to use water more efficiently.  
 **Conversation:**  
-A – How did you cut water usage so much?  
+A – How did you cut water usage so much  
 B – We installed systems that use water much more efficiently.
 
 ---
@@ -396,7 +396,7 @@ B – We installed systems that use water much more efficiently.
 **Cambridge Meaning:** To improve or increase the quality or value of something.  
 **Sentence:** New technology can enhance the efficiency of agricultural practices.  
 **Conversation:**  
-A – How can we improve farm productivity?  
+A – How can we improve farm productivity  
 B – We can enhance efficiency with better tools and training.
 
 ---
@@ -406,7 +406,7 @@ B – We can enhance efficiency with better tools and training.
 **Cambridge Meaning:** To establish something so firmly that it is very difficult to change.  
 **Sentence:** The government's policies have entrenched the challenges facing small farmers.  
 **Conversation:**  
-A – Why is it so hard to change the farming system?  
+A – Why is it so hard to change the farming system  
 B – The issues are entrenched in the policies and practices of the government.
 
 ---
@@ -416,7 +416,7 @@ B – The issues are entrenched in the policies and practices of the government.
 **Cambridge Meaning:** A person who writes essays, especially for newspapers or magazines.  
 **Sentence:** The essayist discussed the impact of climate change on agriculture in her article.  
 **Conversation:**  
-A – Who wrote the article on farming and climate change?  
+A – Who wrote the article on farming and climate change  
 B – It was written by a well-known essayist in the agriculture field.
 
 ---
@@ -426,7 +426,7 @@ B – It was written by a well-known essayist in the agriculture field.
 **Cambridge Meaning:** Easy to see or understand.  
 **Sentence:** The negative effects of climate change on crops are evident in many regions.  
 **Conversation:**  
-A – Can you see the impact of climate change on your farm?  
+A – Can you see the impact of climate change on your farm  
 B – Yes, the changes are evident in the reduced yields.
 
 ---
@@ -436,7 +436,7 @@ B – Yes, the changes are evident in the reduced yields.
 **Cambridge Meaning:** More than is necessary, normal, or desirable.  
 **Sentence:** The use of pesticides has been excessively high in some farming areas.  
 **Conversation:**  
-A – Why are pesticide levels so high in this region?  
+A – Why are pesticide levels so high in this region  
 B – It’s due to the excessively large amounts used by some farmers.
 
 ---
@@ -446,7 +446,7 @@ B – It’s due to the excessively large amounts used by some farmers.
 **Cambridge Meaning:** A person who has an important job in a company or organization.  
 **Sentence:** The executive of the agricultural institute proposed new policies for supporting farmers.  
 **Conversation:**  
-A – Who makes the final decisions at the institute?  
+A – Who makes the final decisions at the institute  
 B – The executive team is responsible for those decisions.
 
 ---
@@ -456,7 +456,7 @@ B – The executive team is responsible for those decisions.
 **Cambridge Meaning:** A building, room, or equipment used for a particular activity.  
 **Sentence:** The new irrigation facility has significantly improved water access for farmers.  
 **Conversation:**  
-A – What’s the latest upgrade on the farm?  
+A – What’s the latest upgrade on the farm  
 B – We just built a new irrigation facility to improve water access.
 
 ---
@@ -466,7 +466,7 @@ B – We just built a new irrigation facility to improve water access.
 **Cambridge Meaning:** A substance such as coal, oil, or gas, formed from the remains of dead plants or animals.  
 **Sentence:** Fossil fuels are a major contributor to global warming, which affects agriculture.  
 **Conversation:**  
-A – Why is the use of fossil fuels a problem?  
+A – Why is the use of fossil fuels a problem  
 B – They contribute to climate change, which harms farming.
 
 ---
@@ -476,7 +476,7 @@ B – They contribute to climate change, which harms farming.
 **Cambridge Meaning:** The number of times something happens within a certain period.  
 **Sentence:** The frequency of extreme weather events is increasing due to climate change.  
 **Conversation:**  
-A – Has the weather been unusual lately?  
+A – Has the weather been unusual lately  
 B – Yes, the frequency of storms has increased a lot this year.
 
 ---
@@ -486,7 +486,7 @@ B – Yes, the frequency of storms has increased a lot this year.
 **Cambridge Meaning:** A market for buying and selling goods or commodities for delivery at a later time.  
 **Sentence:** Futures markets can help farmers lock in prices and protect against price volatility.  
 **Conversation:**  
-A – How do farmers protect themselves from market fluctuations?  
+A – How do farmers protect themselves from market fluctuations  
 B – They use futures markets to secure prices ahead of time.
 
 ---
@@ -496,7 +496,7 @@ B – They use futures markets to secure prices ahead of time.
 **Cambridge Meaning:** Very much or very greatly.  
 **Sentence:** The new farming techniques have hugely improved crop yields in this area.  
 **Conversation:**  
-A – How has the new farming technology affected production?  
+A – How has the new farming technology affected production  
 B – It has hugely increased our yields and profits.
 
 ---
@@ -506,7 +506,7 @@ B – It has hugely increased our yields and profits.
 **Cambridge Meaning:** The physical feeling of needing food.  
 **Sentence:** Hunger is a persistent issue in many rural areas due to poor harvests.  
 **Conversation:**  
-A – What causes hunger in this region?  
+A – What causes hunger in this region  
 B – It’s mainly due to crop failures and low food production.
 
 ---
@@ -516,7 +516,7 @@ B – It’s mainly due to crop failures and low food production.
 **Cambridge Meaning:** Supporting or agreeing with an idea or action.  
 **Sentence:** Many people are in favour of government support for smallholder farmers.  
 **Conversation:**  
-A – What do you think about the new farming policy?  
+A – What do you think about the new farming policy  
 B – I’m in favour of it, especially for small farmers.
 
 ---
@@ -526,7 +526,7 @@ B – I’m in favour of it, especially for small farmers.
 **Cambridge Meaning:** With regard to a particular aspect or situation.  
 **Sentence:** In terms of market access, farmers in rural areas face major challenges.  
 **Conversation:**  
-A – How is the market access for small farmers?  
+A – How is the market access for small farmers  
 B – In terms of infrastructure, it’s very limited.
 
 ---
@@ -536,7 +536,7 @@ B – In terms of infrastructure, it’s very limited.
 **Cambridge Meaning:** The state of being unable to do something.  
 **Sentence:** The inability to access modern technology prevents many farmers from improving their yields.  
 **Conversation:**  
-A – Why can’t farmers increase their production?  
+A – Why can’t farmers increase their production  
 B – The inability to use new technology is a major barrier.
 
 ---
@@ -546,7 +546,7 @@ B – The inability to use new technology is a major barrier.
 **Cambridge Meaning:** The basic physical and organizational structures needed for the operation of a society.  
 **Sentence:** Poor infrastructure in rural areas makes it difficult for farmers to reach markets.  
 **Conversation:**  
-A – What’s the biggest challenge for farmers in this region?  
+A – What’s the biggest challenge for farmers in this region  
 B – Poor infrastructure is a major problem for getting produce to market.
 
 ---
@@ -556,7 +556,7 @@ B – Poor infrastructure is a major problem for getting produce to market.
 **Cambridge Meaning:** The state of not feeling safe or confident.  
 **Sentence:** Food insecurity is a major issue in many developing countries, particularly among smallholder farmers.  
 **Conversation:**  
-A – What’s the situation with food security here?  
+A – What’s the situation with food security here  
 B – Food insecurity is a big concern, especially after poor harvests.
 
 ---
@@ -566,7 +566,7 @@ B – Food insecurity is a big concern, especially after poor harvests.
 **Cambridge Meaning:** An organization with a specific purpose, such as education or research.  
 **Sentence:** The Institute of Agricultural Policy Research offers support to small farmers in the region.  
 **Conversation:**  
-A – Who is helping farmers in your area?  
+A – Who is helping farmers in your area  
 B – The Institute of Agricultural Policy Research provides a lot of assistance.
 
 ---
@@ -576,7 +576,7 @@ B – The Institute of Agricultural Policy Research provides a lot of assistance
 **Cambridge Meaning:** A person or organization that helps two parties to communicate or reach an agreement.  
 **Sentence:** Intermediaries often control the prices that farmers receive for their crops.  
 **Conversation:**  
-A – Why do farmers get such low prices for their goods?  
+A – Why do farmers get such low prices for their goods  
 B – Intermediaries often take a large cut before selling to consumers.
 
 ---
@@ -586,7 +586,7 @@ B – Intermediaries often take a large cut before selling to consumers.
 **Cambridge Meaning:** The action of becoming involved in a situation to change something.  
 **Sentence:** Government intervention is necessary to help mitigate the risks that small farmers face.  
 **Conversation:**  
-A – What can the government do to help farmers?  
+A – What can the government do to help farmers  
 B – They need to intervene with policies that support smallholder farmers.
 
 ---
@@ -595,7 +595,7 @@ B – They need to intervene with policies that support smallholder farmers.
 **Cambridge Meaning:** Based on feelings or understanding without the need for conscious thought.  
 **Sentence:** Farmers intuitively know when to plant their crops based on weather patterns.  
 **Conversation:**  
-A – How do farmers decide the best time to plant?  
+A – How do farmers decide the best time to plant  
 B – They do it intuitively, based on their experience and the weather.
 
 ---
@@ -605,7 +605,7 @@ B – They do it intuitively, based on their experience and the weather.
 **Cambridge Meaning:** The process of supplying land with water so that crops can grow.  
 **Sentence:** Irrigation systems are essential for maintaining crops in dry regions.  
 **Conversation:**  
-A – How do you water the fields during the dry season?  
+A – How do you water the fields during the dry season  
 B – We rely on an irrigation system to ensure crops get enough water.
 
 ---
@@ -615,7 +615,7 @@ B – We rely on an irrigation system to ensure crops get enough water.
 **Cambridge Meaning:** A person who owns land, especially agricultural land.  
 **Sentence:** The landowner decided to lease part of the farm to other farmers.  
 **Conversation:**  
-A – Who owns the land you’re farming on?  
+A – Who owns the land you’re farming on  
 B – It’s owned by a local landowner who rents it out to us.
 
 ---
@@ -625,7 +625,7 @@ B – It’s owned by a local landowner who rents it out to us.
 **Cambridge Meaning:** The size, extent, or importance of something.  
 **Sentence:** The magnitude of the drought has caused significant crop losses.  
 **Conversation:**  
-A – How bad is the drought this year?  
+A – How bad is the drought this year  
 B – The magnitude of the drought is much worse than last year.
 
 ---
@@ -635,7 +635,7 @@ B – The magnitude of the drought is much worse than last year.
 **Cambridge Meaning:** To make something less harmful, serious, or painful.  
 **Sentence:** Governments must take action to mitigate the impact of climate change on farmers.  
 **Conversation:**  
-A – What can be done to help farmers deal with climate change?  
+A – What can be done to help farmers deal with climate change  
 B – We need policies that mitigate the risks and provide support.
 
 ---
@@ -645,7 +645,7 @@ B – We need policies that mitigate the risks and provide support.
 **Cambridge Meaning:** A poor farmer or agricultural laborer, especially in historical contexts.  
 **Sentence:** The peasants worked long hours in the fields to sustain their families.  
 **Conversation:**  
-A – Who works the land in this village?  
+A – Who works the land in this village  
 B – The peasants do most of the hard labor in the fields.
 
 ---
@@ -655,7 +655,7 @@ B – The peasants do most of the hard labor in the fields.
 **Cambridge Meaning:** The state of being very poor or not having enough money for basic needs.  
 **Sentence:** Many smallholder farmers live in poverty due to poor harvests and high costs.  
 **Conversation:**  
-A – Why is there so much poverty in rural areas?  
+A – Why is there so much poverty in rural areas  
 B – It’s caused by poor harvests and a lack of access to resources.
 
 ---
@@ -665,7 +665,7 @@ B – It’s caused by poor harvests and a lack of access to resources.
 **Cambridge Meaning:** Existing or happening frequently or commonly.  
 **Sentence:** Malnutrition is prevalent in regions with low food security.  
 **Conversation:**  
-A – Is malnutrition common in this region?  
+A – Is malnutrition common in this region  
 B – Yes, it’s prevalent due to limited food availability.
 
 ---
@@ -675,7 +675,7 @@ B – Yes, it’s prevalent due to limited food availability.
 **Cambridge Meaning:** The process of obtaining goods or services.  
 **Sentence:** The government’s procurement of agricultural products helps stabilize prices.  
 **Conversation:**  
-A – How does the government control food prices?  
+A – How does the government control food prices  
 B – They manage the procurement of crops to avoid shortages.
 
 ---
@@ -685,7 +685,7 @@ B – They manage the procurement of crops to avoid shortages.
 **Cambridge Meaning:** Producing good results or achieving a lot.  
 **Sentence:** The new farming methods have been very productive, increasing crop yields.  
 **Conversation:**  
-A – How’s the farming project going?  
+A – How’s the farming project going  
 B – It’s been highly productive, with better yields than last year.
 
 ---
@@ -695,7 +695,7 @@ B – It’s been highly productive, with better yields than last year.
 **Cambridge Meaning:** The amount of rain that falls during a particular period.  
 **Sentence:** The irregular rainfall patterns have caused crop failures in some areas.  
 **Conversation:**  
-A – How has the weather affected your crops?  
+A – How has the weather affected your crops  
 B – The unpredictable rainfall has caused significant damage to our fields.
 
 ---
@@ -705,7 +705,7 @@ B – The unpredictable rainfall has caused significant damage to our fields.
 **Cambridge Meaning:** Able to recover quickly from difficult conditions.  
 **Sentence:** Some crop varieties are more resilient to extreme weather conditions.  
 **Conversation:**  
-A – Do you think your crops will survive the drought?  
+A – Do you think your crops will survive the drought  
 B – Yes, the resilient crops we planted should manage better in these conditions.
 
 ---
@@ -715,7 +715,7 @@ B – Yes, the resilient crops we planted should manage better in these conditio
 **Cambridge Meaning:** Relating to the countryside or country life.  
 **Sentence:** Many rural farmers face challenges due to limited access to markets and infrastructure.  
 **Conversation:**  
-A – Where do most farmers live?  
+A – Where do most farmers live  
 B – Most of them live in rural areas where resources are scarce.
 
 ---
@@ -725,7 +725,7 @@ B – Most of them live in rural areas where resources are scarce.
 **Cambridge Meaning:** An organized plan or system of doing something.  
 **Sentence:** The government introduced a new scheme to help farmers access financial aid.  
 **Conversation:**  
-A – What is the new government program for farmers?  
+A – What is the new government program for farmers  
 B – It’s a scheme to provide financial support for smallholders.
 
 ---
@@ -735,7 +735,7 @@ B – It’s a scheme to provide financial support for smallholders.
 **Cambridge Meaning:** Relating to a particular season of the year.  
 **Sentence:** Many agricultural jobs are seasonal, dependent on planting and harvest periods.  
 **Conversation:**  
-A – Is farming work available year-round?  
+A – Is farming work available year-round  
 B – No, it’s mostly seasonal, with peak times during planting and harvest.
 
 ---
@@ -745,7 +745,7 @@ B – No, it’s mostly seasonal, with peak times during planting and harvest.
 **Cambridge Meaning:** Having a higher position or rank in an organization.  
 **Sentence:** The senior advisor suggested a new approach to address food insecurity.  
 **Conversation:**  
-A – Who made the final decision on the project?  
+A – Who made the final decision on the project  
 B – The senior advisor gave the final approval.
 
 ---
@@ -755,7 +755,7 @@ B – The senior advisor gave the final approval.
 **Cambridge Meaning:** A person who owns or works a small piece of land.  
 **Sentence:** Smallholders often struggle to compete with larger commercial farms.  
 **Conversation:**  
-A – Who are the main farmers in this region?  
+A – Who are the main farmers in this region  
 B – Most of them are smallholders, working on small family farms.
 
 ---
@@ -765,7 +765,7 @@ B – Most of them are smallholders, working on small family farms.
 **Cambridge Meaning:** The substance on the surface of the ground in which plants grow.  
 **Sentence:** Soil quality is crucial for growing healthy crops and increasing yields.  
 **Conversation:**  
-A – How do you improve soil for farming?  
+A – How do you improve soil for farming  
 B – We use organic fertilizers to improve soil quality.
 
 ---
@@ -775,7 +775,7 @@ B – We use organic fertilizers to improve soil quality.
 **Cambridge Meaning:** A person or organization with an interest or concern in something.  
 **Sentence:** All stakeholders, including farmers, governments, and businesses, must collaborate to solve food insecurity.  
 **Conversation:**  
-A – Who is involved in solving the issue of food insecurity?  
+A – Who is involved in solving the issue of food insecurity  
 B – Many stakeholders are working together, from farmers to governments.
 
 ---
@@ -785,7 +785,7 @@ B – Many stakeholders are working together, from farmers to governments.
 **Cambridge Meaning:** Complete control over something or someone.  
 **Sentence:** Large agribusinesses often have a stranglehold on the local food markets.  
 **Conversation:**  
-A – Why is it difficult for small farmers to succeed?  
+A – Why is it difficult for small farmers to succeed  
 B – Large companies have a stranglehold on the market, making it hard for them to compete.
 
 ---
