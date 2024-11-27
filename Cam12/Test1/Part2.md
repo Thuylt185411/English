@@ -404,3 +404,12 @@ Conversation:
 A – Should we still go ahead with the plan
 B – In light of the new information, I think we should reconsider
 
+Professionalization
+Contextual Meaning: The process of making an activity or occupation more professional.
+Cambridge Meaning: The process of making something more professional.
+Sentence: The professionalization of the medical field has led to better patient care.
+Conversation:
+A – Why is this industry growing
+B – There’s been a lot of professionalization in recent years
+
+
