@@ -32,4 +32,6 @@ Stone Herman said a surprising benefit of the pandemic work-life juggle is that 
 
 “People are so much more sympathetic across the board and see each other as human beings first,” she said. “I’m hoping that sticks.”
 
-
+kindergarten
+pandemic
+puppet
