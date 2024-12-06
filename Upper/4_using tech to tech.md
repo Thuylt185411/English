@@ -40,3 +40,261 @@ Stone Herman said a surprising benefit of the pandemic work-life juggle is that 
 **Conversation:**  
 A – What do you plan to do after college  
 B – Honestly, I feel a bit aimless right now
+
+### Word: Accompany  
+**Contextual Meaning:** To go with someone or be present at a particular event or activity.  
+**Cambridge Meaning:** To go somewhere with someone.  
+**Sentence:** Ben Cogswell’s wife accompanies him on the ukulele during storytime.  
+**Conversation:**  
+A – What instrument does your wife play in the videos  
+B – She accompanies me on the ukulele  
+
+### Word: Across the board  
+**Contextual Meaning:** Affecting or involving everyone or everything in a particular group or situation.  
+**Cambridge Meaning:** Including all people or things.  
+**Sentence:** The new safety measures were implemented across the board for all virtual classes.  
+**Conversation:**  
+A – Did the new rules affect everyone at the school  
+B – Yes, they applied across the board  
+
+### Word: Bounce  
+**Contextual Meaning:** To move or cause to move in a lively or energetic way.  
+**Cambridge Meaning:** To move up or away from a surface after hitting it.  
+**Sentence:** The child bounced a beach ball off his father’s head during the Zoom meeting.  
+**Conversation:**  
+A – What did your kid do during the meeting  
+B – He bounced a ball off my head  
+
+### Word: Butterfly  
+**Contextual Meaning:** A flying insect with large, colorful wings, often admired for its beauty.  
+**Cambridge Meaning:** A large insect with two pairs of colorful wings.  
+**Sentence:** Cogswell shot a time-lapse video of caterpillars transitioning into butterflies.  
+**Conversation:**  
+A – What did you teach about the butterfly life cycle  
+B – I showed a time-lapse video of caterpillars turning into butterflies  
+
+### Word: Caregiver  
+**Contextual Meaning:** A person who takes care of someone, especially a child or elderly person.  
+**Cambridge Meaning:** A person who helps take care of another person.  
+**Sentence:** Many teachers and caregivers struggled with the shift to remote learning.  
+**Conversation:**  
+A – Do you have a caregiver for your grandmother  
+B – Yes, she comes every afternoon to help her  
+
+### Word: Caterpillar  
+**Contextual Meaning:** The larval stage of a butterfly or moth, often eaten by other animals or transformed into a pupa.  
+**Cambridge Meaning:** The long, worm-like young form of an insect, especially a butterfly.  
+**Sentence:** We watched a caterpillar turn into a butterfly in Cogswell’s video.  
+**Conversation:**  
+A – What was in the video you showed  
+B – It was a caterpillar turning into a butterfly  
+
+### Word: Complexity  
+**Contextual Meaning:** The state of being complex, difficult, or having many parts.  
+**Cambridge Meaning:** The state of being complicated or difficult.  
+**Sentence:** The complexity of the software made it difficult for parents to assist with learning.  
+**Conversation:**  
+A – Why do you think the software was difficult to use  
+B – It had too much complexity for beginners  
+
+### Word: Doable  
+**Contextual Meaning:** Possible to do or achieve.  
+**Cambridge Meaning:** Possible to do or accomplish.  
+**Sentence:** Cogswell made sure his class schedule was doable for both kids and parents.  
+**Conversation:**  
+A – Is the assignment manageable for your child  
+B – Yes, it’s completely doable  
+
+### Word: Empower  
+**Contextual Meaning:** To give someone the power or ability to do something.  
+**Cambridge Meaning:** To give someone the power to do something.  
+**Sentence:** Technology can empower creative teachers to shine during difficult times.  
+**Conversation:**  
+A – Do you think technology can help teachers  
+B – Yes, it can really empower them to be more creative  
+
+### Word: Enthusiasm  
+**Contextual Meaning:** Strong excitement or interest in something.  
+**Cambridge Meaning:** Great excitement for something.  
+**Sentence:** You could feel Cogswell’s enthusiasm as he talked about teaching.  
+**Conversation:**  
+A – How did Cogswell talk about his work  
+B – With a lot of enthusiasm, it was contagious  
+
+### Word: Firm  
+**Contextual Meaning:** Strong or resolute in attitude or approach.  
+**Cambridge Meaning:** Having a strong, solid structure.  
+**Sentence:** Cogswell remained firm in his decision to limit the technology used in his lessons.  
+**Conversation:**  
+A – Do you think he’ll change his teaching approach  
+B – No, he’s very firm about keeping things simple  
+
+### Word: Hierarchy  
+**Contextual Meaning:** A system of organization in which people or things are ranked above one another.  
+**Cambridge Meaning:** A system in which people or things are arranged according to their importance.  
+**Sentence:** Some workplace hierarchies have melted away during the pandemic, according to Stone Herman.  
+**Conversation:**  
+A – Has the company structure changed  
+B – Yes, the hierarchy has become less strict lately  
+
+### Word: Human being  
+**Contextual Meaning:** A person, as opposed to an animal or thing.  
+**Cambridge Meaning:** A person, not an animal or machine.  
+**Sentence:** The pandemic has reminded many people to see each other as human beings first.  
+**Conversation:**  
+A – How do you see your colleagues now  
+B – I see them more as human beings than just coworkers
+
+### Word: Intimidate  
+**Contextual Meaning:** To frighten or make someone feel afraid.  
+**Cambridge Meaning:** To frighten or make someone feel afraid.  
+**Sentence:** Big bosses seem less intimidating when their child is bouncing a beach ball in a Zoom meeting.  
+**Conversation:**  
+A – Do you think the boss is scary  
+B – Not at all, they’re less intimidating with their kids around  
+
+### Word: Isolate  
+**Contextual Meaning:** To separate or keep someone or something apart from others.  
+**Cambridge Meaning:** To separate someone or something from others.  
+**Sentence:** The pandemic has forced many people to isolate themselves at home.  
+**Conversation:**  
+A – Why is he staying at home  
+B – He’s isolating due to the virus  
+
+### Word: Juggling  
+**Contextual Meaning:** Managing multiple tasks or responsibilities at once.  
+**Cambridge Meaning:** The act of managing many things at the same time.  
+**Sentence:** Like many parents, Cogswell is juggling work and caring for his four children at home.  
+**Conversation:**  
+A – How do you manage all your tasks  
+B – I’m juggling work and family at the same time  
+
+### Word: Kindergarten  
+**Contextual Meaning:** The first year of formal education for children, typically for those around five years old.  
+**Cambridge Meaning:** The first year of school for children.  
+**Sentence:** Cogswell is a kindergarten teacher who uses creative methods to teach his students.  
+**Conversation:**  
+A – What age group do you teach  
+B – I teach kindergarten  
+
+### Word: Milestone  
+**Contextual Meaning:** An important event or achievement in someone’s life or career.  
+**Cambridge Meaning:** A significant stage or event in the development of something.  
+**Sentence:** Winning the local teaching award was a significant milestone for Cogswell.  
+**Conversation:**  
+A – What’s the best part of your career  
+B – Winning that teaching award was a big milestone for me  
+
+### Word: Miserable  
+**Contextual Meaning:** Extremely unhappy or uncomfortable.  
+**Cambridge Meaning:** Unhappy or uncomfortable.  
+**Sentence:** Many teachers and caregivers felt miserable during the transition to remote learning.  
+**Conversation:**  
+A – How did you feel about remote learning  
+B – Honestly, it made me feel miserable at first  
+
+### Word: Parental leave  
+**Contextual Meaning:** Time off from work given to a parent for the birth or care of a child.  
+**Cambridge Meaning:** Time off from work for parents.  
+**Sentence:** Stone Herman now focuses on parental leave policies at her law firm.  
+**Conversation:**  
+A – Do you get time off after having a baby  
+B – Yes, I’m taking parental leave next month  
+
+### Word: Passionate  
+**Contextual Meaning:** Having a strong feeling of enthusiasm or excitement for something.  
+**Cambridge Meaning:** Showing or feeling strong enthusiasm.  
+**Sentence:** Cogswell is passionate about teaching and enjoys finding creative ways to engage his students.  
+**Conversation:**  
+A – What drives you to be a teacher  
+B – I’m passionate about inspiring young learners  
+
+### Word: Predictable  
+**Contextual Meaning:** Able to be predicted or expected.  
+**Cambridge Meaning:** Able to be predicted.  
+**Sentence:** Cogswell’s class schedule is predictable, which helps both parents and children.  
+**Conversation:**  
+A – Is your schedule always the same  
+B – Yes, it’s very predictable  
+
+### Word: Prim  
+**Contextual Meaning:** Proper, formal, or stiff in behavior.  
+**Cambridge Meaning:** Very formal or correct in behavior.  
+**Sentence:** She was always prim and proper, even when interacting with the kids during online classes.  
+**Conversation:**  
+A – How does she act in class  
+B – She’s very prim and professional  
+
+### Word: Prom  
+**Contextual Meaning:** A formal dance or social event, usually for high school students.  
+**Cambridge Meaning:** A formal dance, usually held at the end of the school year.  
+**Sentence:** Many students were disappointed about missing their prom during the pandemic.  
+**Conversation:**  
+A – Are you going to prom this year  
+B – Unfortunately, it was canceled because of the pandemic  
+
+### Word: Puppet  
+**Contextual Meaning:** A figure or doll that is moved by strings, rods, or by hand.  
+**Cambridge Meaning:** A figure controlled by a person to move in a particular way.  
+**Sentence:** Cogswell uses a robot puppet named Bot to engage his students in online lessons.  
+**Conversation:**  
+A – How do you keep the kids entertained  
+B – I use a puppet named Bot to make learning fun  
+
+### Word: Reminder  
+**Contextual Meaning:** Something that helps you remember something.  
+**Cambridge Meaning:** A message or notice that helps you remember something.  
+**Sentence:** The video Cogswell posted was a reminder for students to stay engaged with the lesson.  
+**Conversation:**  
+A – How did you remind the kids about the lesson  
+B – I posted a video as a reminder  
+
+### Word: Savvy  
+**Contextual Meaning:** Knowledgeable and able to handle situations well.  
+**Cambridge Meaning:** Having practical knowledge and ability.  
+**Sentence:** Cogswell is more tech-savvy than most educators.  
+**Conversation:**  
+A – Is he good with technology  
+B – Yes, he’s really tech-savvy  
+
+### Word: Shine  
+**Contextual Meaning:** To perform or be recognized for being excellent in something.  
+**Cambridge Meaning:** To do something very well.  
+**Sentence:** Cogswell's creative teaching methods helped him shine during the pandemic.  
+**Conversation:**  
+A – How did you do so well in your job  
+B – I just tried to shine with my creativity  
+
+### Word: Slip  
+**Contextual Meaning:** To accidentally make a mistake or miss something.  
+**Cambridge Meaning:** To make a mistake or error.  
+**Sentence:** Cogswell occasionally slipped into “kindergarten-teacher mode” while explaining.  
+**Conversation:**  
+A – Did you make any mistakes during your presentation  
+B – Yes, I slipped a few times in my explanation  
+
+### Word: Sympathetic  
+**Contextual Meaning:** Showing understanding or kindness toward someone else’s problems.  
+**Cambridge Meaning:** Showing understanding and care for others.  
+**Sentence:** Many people are more sympathetic to each other during this challenging time.  
+**Conversation:**  
+A – How do people treat each other at work now  
+B – They’re much more sympathetic toward each other  
+
+### Word: Tantrum  
+**Contextual Meaning:** A sudden burst of anger or frustration, often from a child.  
+**Cambridge Meaning:** A sudden period of uncontrolled anger, especially by a child.  
+**Sentence:** The seminars also covered how to handle children’s tantrums during remote learning.  
+**Conversation:**  
+A – How did you manage the children during the meeting  
+B – I had to deal with a tantrum in the middle of it  
+
+### Word: Virtual  
+**Contextual Meaning:** Existing or occurring on the internet, or in a simulated environment.  
+**Cambridge Meaning:** Not physical, existing or happening on the internet.  
+**Sentence:** Virtual classes have become the norm for many schools during the pandemic.  
+**Conversation:**  
+A – Do you prefer virtual meetings or in-person  
+B – I think virtual is more convenient right now
+
+
