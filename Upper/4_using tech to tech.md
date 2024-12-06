@@ -32,6 +32,11 @@ Stone Herman said a surprising benefit of the pandemic work-life juggle is that 
 
 “People are so much more sympathetic across the board and see each other as human beings first,” she said. “I’m hoping that sticks.”
 
-kindergarten
-pandemic
-puppet
+---
+### Word: Aimless  
+**Contextual Meaning:** Describes a life or action without purpose or direction.  
+**Cambridge Meaning:** Without purpose or direction.  
+**Sentence:** After graduating, he felt aimless and unsure about his next step.  
+**Conversation:**  
+A – What do you plan to do after college  
+B – Honestly, I feel a bit aimless right now
