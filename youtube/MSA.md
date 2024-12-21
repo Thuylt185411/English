@@ -721,3 +721,479 @@ I felt a wave of shame wash over me.
 I'm sorry, Miss Marina.
 
 I jumped to conclusions and caused all this drama.
+
+
+1. **Artifact**  
+   - **Contextual Meaning:** An object made by a human, often with historical significance.  
+   - **Cambridge Meaning:** An object made by a person, typically of cultural or historical interest.  
+   - **Sentence:** The museum displayed an ancient artifact from the ruins.  
+   - **Conversation:** A – What’s that in the glass case? B – It’s an old artifact from the 1800s.  
+
+2. **Attach**  
+   - **Contextual Meaning:** To fasten or connect one thing to another.  
+   - **Cambridge Meaning:** To join or fix one thing to another.  
+   - **Sentence:** Please attach the file to the email before sending.  
+   - **Conversation:** A – Did you send the report? B – Yes, I attached it to the email.  
+
+3. **Bath**  
+   - **Contextual Meaning:** An act of washing the body in water.  
+   - **Cambridge Meaning:** A large container filled with water for washing the body.  
+   - **Sentence:** She relaxed in a warm bath after a long day.  
+   - **Conversation:** A – You look refreshed. B – I just had a relaxing bath.  
+
+4. **Blush**  
+   - **Contextual Meaning:** To turn red in the face, often from embarrassment.  
+   - **Cambridge Meaning:** When your face becomes red due to shame or modesty.  
+   - **Sentence:** He began to blush when everyone looked at him.  
+   - **Conversation:** A – Why is your face red? B – I couldn’t help but blush.  
+
+5. **Bombshell**  
+   - **Contextual Meaning:** A shocking or surprising event or piece of news.  
+   - **Cambridge Meaning:** Something that causes great surprise or shock.  
+   - **Sentence:** The announcement was a real bombshell for everyone.  
+   - **Conversation:** A – Did you hear the news? B – Yes, it was a total bombshell.  
+
+6. **Caffeinated**  
+   - **Contextual Meaning:** Containing caffeine, often in drinks like coffee.  
+   - **Cambridge Meaning:** Containing the chemical caffeine.  
+   - **Sentence:** He prefers caffeinated drinks to help him stay awake.  
+   - **Conversation:** A – Is this decaf? B – No, it’s fully caffeinated.  
+
+7. **Campsite**  
+   - **Contextual Meaning:** A place where people set up tents or camp.  
+   - **Cambridge Meaning:** A place used for camping.  
+   - **Sentence:** We found a beautiful campsite by the lake.  
+   - **Conversation:** A – Where did you sleep? B – At a campsite near the woods.  
+
+8. **Cascade**  
+   - **Contextual Meaning:** A small waterfall or a series of things happening quickly.  
+   - **Cambridge Meaning:** A flow of water or a sequence of events.  
+   - **Sentence:** The water formed a cascade over the rocks.  
+   - **Conversation:** A – Did you see the waterfall? B – Yes, it looked like a cascade.  
+
+9. **Chin**  
+   - **Contextual Meaning:** The part of the face below the mouth.  
+   - **Cambridge Meaning:** The lower part of the face, below the mouth.  
+   - **Sentence:** He rested his chin on his hand while thinking.  
+   - **Conversation:** A – Are you okay? B – I’m just thinking with my chin resting.  
+
+10. **Clarity**  
+    - **Contextual Meaning:** The quality of being clear or easy to understand.  
+    - **Cambridge Meaning:** The ability to think clearly or understand something well.  
+    - **Sentence:** Her explanation brought clarity to the confusing topic.  
+    - **Conversation:** A – Did you get it now? B – Yes, your example gave me clarity.  
+
+11. **Coastline**  
+    - **Contextual Meaning:** The outline of a coast where land meets the sea.  
+    - **Cambridge Meaning:** The shape of the edge of land along the sea.  
+    - **Sentence:** The coastline was dotted with small fishing villages.  
+    - **Conversation:** A – What did you see from the plane? B – A beautiful view of the coastline.  
+
+12. **Coincidence**  
+    - **Contextual Meaning:** When two things happen at the same time by chance.  
+    - **Cambridge Meaning:** An event that happens by chance without planning.  
+    - **Sentence:** Meeting her at the cafe was a happy coincidence.  
+    - **Conversation:** A – Was that planned? B – No, it was just a coincidence.  
+
+13. **Collectively**  
+    - **Contextual Meaning:** As a group or all together.  
+    - **Cambridge Meaning:** Done or shared by every member of a group.  
+    - **Sentence:** The team worked collectively to finish the project.  
+    - **Conversation:** A – How did you complete it so fast? B – We worked collectively.  
+
+14. **Continent**  
+    - **Contextual Meaning:** A large landmass on Earth.  
+    - **Cambridge Meaning:** One of the seven main areas of land on Earth.  
+    - **Sentence:** Africa is the second-largest continent in the world.  
+    - **Conversation:** A – Have you been to another continent? B – Yes, I visited Europe last year.  
+
+15. **Coral**  
+    - **Contextual Meaning:** A hard, colorful material in reefs made by marine animals.  
+    - **Cambridge Meaning:** A hard substance in the sea made by small creatures.  
+    - **Sentence:** The coral reefs were teeming with marine life.  
+    - **Conversation:** A – Did you go snorkeling? B – Yes, I saw beautiful coral.  
+
+16. **Creak**  
+    - **Contextual Meaning:** A high-pitched sound made when something moves or is strained.  
+    - **Cambridge Meaning:** A noise that occurs when something moves or bends.  
+    - **Sentence:** The old floorboards creak when you step on them.  
+    - **Conversation:** A – What’s that noise? B – Just the door creaking.  
+
+17. **Daydream**  
+    - **Contextual Meaning:** To imagine pleasant things while awake.  
+    - **Cambridge Meaning:** Thoughts about something pleasant, especially when not paying attention.  
+    - **Sentence:** She often likes to daydream about traveling the world.  
+    - **Conversation:** A – Are you listening? B – Sorry, I was daydreaming.  
+
+18. **Doodle**  
+    - **Contextual Meaning:** To draw or scribble absentmindedly.  
+    - **Cambridge Meaning:** A drawing made without thinking, often while bored.  
+    - **Sentence:** He doodled on the edge of his notebook during the lecture.  
+    - **Conversation:** A – What are you drawing? B – Just doodling on the paper.  
+
+19. **Drown**  
+    - **Contextual Meaning:** To die from being underwater and unable to breathe.  
+    - **Cambridge Meaning:** To die by being underwater and unable to breathe.  
+    - **Sentence:** He learned to swim to ensure he wouldn’t drown.  
+    - **Conversation:** A – Why take swimming lessons? B – I’m scared of drowning.  
+
+20. **Ecstatic**  
+    - **Contextual Meaning:** Extremely happy or excited.  
+    - **Cambridge Meaning:** Feeling extremely happy and overjoyed.  
+    - **Sentence:** She was ecstatic when she won the competition.  
+    - **Conversation:** A – How do you feel after winning? B – I’m absolutely ecstatic.  
+
+1. **Elbow**  
+   - **Contextual Meaning:** The joint between the upper and lower parts of the arm.  
+   - **Cambridge Meaning:** The part in the middle of the arm where it bends.  
+   - **Sentence:** She leaned on her elbow while reading the book.  
+   - **Conversation:** A – Are you okay? B – I hit my elbow on the table.  
+
+2. **Emerge**  
+   - **Contextual Meaning:** To come into view or become visible.  
+   - **Cambridge Meaning:** To appear or come out from somewhere.  
+   - **Sentence:** The sun began to emerge from behind the clouds.  
+   - **Conversation:** A – Is it still cloudy? B – No, the sun is starting to emerge.  
+
+3. **Enchant**  
+   - **Contextual Meaning:** To charm or delight someone.  
+   - **Cambridge Meaning:** To attract someone so strongly that they feel delighted.  
+   - **Sentence:** The music seemed to enchant the audience.  
+   - **Conversation:** A – How was the concert? B – It was enchanting to hear live.  
+
+4. **Enchantress**  
+   - **Contextual Meaning:** A woman with magical powers or captivating beauty.  
+   - **Cambridge Meaning:** A woman who attracts and charms others, often with magic.  
+   - **Sentence:** The character in the play was portrayed as a mysterious enchantress.  
+   - **Conversation:** A – Who was the main character? B – A beautiful enchantress.  
+
+5. **Erosion**  
+   - **Contextual Meaning:** The gradual wearing away of land or rock by natural forces.  
+   - **Cambridge Meaning:** The process by which soil and rock are removed by wind, water, or other natural agents.  
+   - **Sentence:** The cliffs showed clear signs of erosion over the years.  
+   - **Conversation:** A – Why does the beach look smaller? B – It’s due to erosion.  
+
+6. **Ethereal**  
+   - **Contextual Meaning:** Extremely delicate and light, seeming not of this world.  
+   - **Cambridge Meaning:** Extremely light and beautiful in a way that does not seem real.  
+   - **Sentence:** The morning mist made the forest look ethereal.  
+   - **Conversation:** A – Did you see the sunrise? B – It felt ethereal in that light.  
+
+7. **Flare**  
+   - **Contextual Meaning:** A sudden burst of light or intense feeling.  
+   - **Cambridge Meaning:** A sudden increase in brightness or a burst of strong emotion.  
+   - **Sentence:** The flare lit up the dark night sky.  
+   - **Conversation:** A – What was that in the sky? B – It looked like a flare.  
+
+8. **Flashlight**  
+   - **Contextual Meaning:** A portable device used to emit light.  
+   - **Cambridge Meaning:** A small electric light that you can carry.  
+   - **Sentence:** She grabbed a flashlight to find her way in the dark.  
+   - **Conversation:** A – How did you see in the dark? B – I used a flashlight.  
+
+9. **Formation**  
+   - **Contextual Meaning:** The way something is arranged or structured.  
+   - **Cambridge Meaning:** The process by which something develops or is arranged into a particular shape.  
+   - **Sentence:** The geologists studied the unique rock formation.  
+   - **Conversation:** A – What are those shapes on the cliff? B – It’s a natural rock formation.  
+
+10. **Glide**  
+    - **Contextual Meaning:** To move smoothly and effortlessly.  
+    - **Cambridge Meaning:** To move easily and without stopping over a surface.  
+    - **Sentence:** The bird seemed to glide effortlessly across the sky.  
+    - **Conversation:** A – Did you see the eagle? B – It was gliding so smoothly.  
+
+11. **Groan**  
+    - **Contextual Meaning:** A low, mournful sound of pain or discontent.  
+    - **Cambridge Meaning:** A deep, long sound showing pain, unhappiness, or discomfort.  
+    - **Sentence:** He let out a groan after lifting the heavy box.  
+    - **Conversation:** A – Are you okay? B – Just a groan from too much work.  
+
+12. **Hauntingly**  
+    - **Contextual Meaning:** In a way that is beautiful but also unsettling or unforgettable.  
+    - **Cambridge Meaning:** In a way that is sad but also beautiful and unforgettable.  
+    - **Sentence:** The melody was hauntingly beautiful.  
+    - **Conversation:** A – Did you like the song? B – It was hauntingly lovely.  
+
+13. **Hoist**  
+    - **Contextual Meaning:** To lift something heavy, often using a machine.  
+    - **Cambridge Meaning:** To lift something heavy, especially with a rope or machine.  
+    - **Sentence:** The workers used a crane to hoist the materials.  
+    - **Conversation:** A – How did they move that beam? B – They hoisted it with a crane.  
+
+14. **Hum**  
+    - **Contextual Meaning:** To make a low continuous sound.  
+    - **Cambridge Meaning:** To make a continuous sound like the noise of bees.  
+    - **Sentence:** She started to hum a soft tune while working.  
+    - **Conversation:** A – What’s that sound? B – I’m just humming a song.  
+
+15. **Hypnotize**  
+    - **Contextual Meaning:** To capture someone’s attention completely.  
+    - **Cambridge Meaning:** To put someone into a state of being completely focused on something.  
+    - **Sentence:** The magician seemed to hypnotize the entire audience.  
+    - **Conversation:** A – Was the performance good? B – It hypnotized everyone there.  
+
+16. **Initiate**  
+    - **Contextual Meaning:** To begin or start something.  
+    - **Cambridge Meaning:** To cause something to begin.  
+    - **Sentence:** The teacher asked the students to initiate the discussion.  
+    - **Conversation:** A – Has the project started? B – Yes, we initiated it yesterday.  
+
+17. **Instinct**  
+    - **Contextual Meaning:** A natural way of thinking or acting.  
+    - **Cambridge Meaning:** The way people or animals naturally react without thinking.  
+    - **Sentence:** Her instinct told her something was wrong.  
+    - **Conversation:** A – How did you know to stop? B – It was just instinct.  
+
+18. **Internally**  
+    - **Contextual Meaning:** Within or inside something.  
+    - **Cambridge Meaning:** Inside a person or an object, not visible externally.  
+    - **Sentence:** He kept the feelings internally and didn’t share them.  
+    - **Conversation:** A – Are you upset? B – No, I’m just processing it internally.  
+
+19. **Intrusive**  
+    - **Contextual Meaning:** Causing disruption or being unwelcome.  
+    - **Cambridge Meaning:** Affecting someone’s private life in an unwanted way.  
+    - **Sentence:** The questions felt too intrusive during the interview.  
+    - **Conversation:** A – Was the interview okay? B – Some questions were intrusive.  
+
+20. **Jolt**  
+    - **Contextual Meaning:** A sudden movement or shock.  
+   - **Cambridge Meaning:** A sudden, violent movement or an unpleasant shock.  
+   - **Sentence:** The train stopped with a sudden jolt.  
+   - **Conversation:** A – Why did the coffee spill? B – The car jolted suddenly.  
+
+21. **Keep an Eye On**  
+   - **Contextual Meaning:** To watch over or monitor something.  
+   - **Cambridge Meaning:** To watch someone or something carefully.  
+   - **Sentence:** Please keep an eye on my bag while I’m away.  
+   - **Conversation:** A – Can you help me? B – Sure, I’ll keep an eye on it.  
+
+22. **Larva**  
+   - **Contextual Meaning:** The early stage of an insect's life cycle.  
+   - **Cambridge Meaning:** A young insect that has not yet become an adult.  
+   - **Sentence:** The butterfly larva feeds on leaves before transforming.  
+   - **Conversation:** A – What’s crawling on the plant? B – It’s a larva of some insect.  
+
+
+1. **Leap**  
+   - **Contextual Meaning:** To jump or spring from one place to another.  
+   - **Cambridge Meaning:** To jump or spring a long distance.  
+   - **Sentence:** He made a leap over the small fence.  
+   - **Conversation:** A – Did you see him jump? B – Yes, he made a big leap.  
+
+2. **Leaning**  
+   - **Contextual Meaning:** Tilting or resting against something.  
+   - **Cambridge Meaning:** To incline or bend toward something.  
+   - **Sentence:** She was leaning against the wall while waiting.  
+   - **Conversation:** A – Why are you leaning like that? B – I’m just resting.  
+
+3. **Marine**  
+   - **Contextual Meaning:** Related to the sea or ocean.  
+   - **Cambridge Meaning:** Connected with the sea or the creatures living there.  
+   - **Sentence:** Marine life is incredibly diverse and colorful.  
+   - **Conversation:** A – What kind of animals live there? B – Marine animals like fish and dolphins.  
+
+4. **Mermaid**  
+   - **Contextual Meaning:** A mythical creature with the upper body of a woman and the lower body of a fish.  
+   - **Cambridge Meaning:** A legendary sea creature, often depicted as a woman with a fish's tail.  
+   - **Sentence:** The story of the mermaid fascinated her as a child.  
+   - **Conversation:** A – Have you heard of the mermaid myths? B – Yes, they are interesting.  
+
+5. **Nonchalant**  
+   - **Contextual Meaning:** Calm, relaxed, or showing no worry.  
+   - **Cambridge Meaning:** Showing no interest or enthusiasm.  
+   - **Sentence:** He was nonchalant about the upcoming exam.  
+   - **Conversation:** A – Aren’t you worried about the test? B – No, I’m feeling nonchalant about it.  
+
+6. **Obsess**  
+   - **Contextual Meaning:** To think about something constantly, often in an unhealthy way.  
+   - **Cambridge Meaning:** To focus too much on something.  
+   - **Sentence:** She began to obsess over the small details of the project.  
+   - **Conversation:** A – You’re always thinking about that idea. B – I can’t help it, I’m obsessed.  
+
+7. **Overprotective**  
+   - **Contextual Meaning:** Being too concerned about someone’s safety or well-being.  
+   - **Cambridge Meaning:** Careful to protect someone to the point of being controlling.  
+   - **Sentence:** His mother was very overprotective of him when he was younger.  
+   - **Conversation:** A – Why won’t she let him out alone? B – She’s overprotective.  
+
+8. **Passionate**  
+   - **Contextual Meaning:** Having strong feelings or emotions about something.  
+   - **Cambridge Meaning:** Showing or feeling intense enthusiasm or emotion.  
+   - **Sentence:** She is passionate about helping the community.  
+   - **Conversation:** A – What does she enjoy? B – She’s passionate about charity work.  
+
+9. **Peek**  
+   - **Contextual Meaning:** A quick look at something, often secretly.  
+   - **Cambridge Meaning:** A quick or secret look at something.  
+   - **Sentence:** He took a peek at the surprise gift.  
+   - **Conversation:** A – What did you see? B – I just peeked inside the box.  
+
+10. **Playfully**  
+    - **Contextual Meaning:** In a fun or light-hearted way.  
+    - **Cambridge Meaning:** In a way that shows you are joking or being mischievous.  
+    - **Sentence:** She playfully teased her brother about his new haircut.  
+    - **Conversation:** A – Why are you laughing? B – I was just being playful.  
+
+11. **Probe**  
+    - **Contextual Meaning:** To investigate or explore something carefully.  
+    - **Cambridge Meaning:** To examine something or someone carefully.  
+    - **Sentence:** The scientist used a special tool to probe the surface of the moon.  
+    - **Conversation:** A – What are you doing? B – I’m probing the soil for samples.  
+
+12. **Reef**  
+    - **Contextual Meaning:** A ridge of rock or coral in the sea, often near the surface.  
+   - **Cambridge Meaning:** A line of rocks or sand just below the surface of the sea.  
+   - **Sentence:** They went diving near the coral reef.  
+   - **Conversation:** A – Did you see the fish? B – Yes, they were around the reef.  
+
+13. **Reel**  
+   - **Contextual Meaning:** To move or feel unsteady, often from shock or dizziness.  
+   - **Cambridge Meaning:** To wind or unwind something, or feel confused or dizzy.  
+   - **Sentence:** He reeled from the news of his promotion.  
+   - **Conversation:** A – Why are you staggering? B – I’m reeling from the surprise.  
+
+14. **Reflection**  
+   - **Contextual Meaning:** An image or likeness of something, usually seen in water or a mirror.  
+   - **Cambridge Meaning:** A clear image of something, like a mirror or water.  
+   - **Sentence:** The reflection of the mountains in the lake was beautiful.  
+   - **Conversation:** A – Look at the lake! B – Wow, the reflection is stunning.  
+
+15. **Reflex**  
+   - **Contextual Meaning:** An automatic action or response to a stimulus.  
+   - **Cambridge Meaning:** A natural, quick reaction to something.  
+   - **Sentence:** The doctor tested his reflex by tapping his knee.  
+   - **Conversation:** A – Did it hurt? B – No, it was just a reflex.  
+
+16. **Remarkable**  
+   - **Contextual Meaning:** Worth noticing or extraordinary.  
+   - **Cambridge Meaning:** Very special or unusual.  
+   - **Sentence:** Her performance in the competition was remarkable.  
+   - **Conversation:** A – How did she do? B – She gave a remarkable performance.  
+
+17. **Rummage**  
+   - **Contextual Meaning:** To search through something, often in a disorganized way.  
+   - **Cambridge Meaning:** To search through something, often in a messy or careless manner.  
+   - **Sentence:** She rummaged through the drawer to find her keys.  
+   - **Conversation:** A – What are you looking for? B – I’m just rummaging for my wallet.  
+
+18. **Scramble**  
+   - **Contextual Meaning:** To move quickly, often in an awkward or hurried way.  
+   - **Cambridge Meaning:** To move quickly and in a disorganized manner.  
+   - **Sentence:** They had to scramble to catch the last bus.  
+   - **Conversation:** A – Why are you in such a hurry? B – I’m scrambling to make it on time.  
+
+19. **Scribble**  
+   - **Contextual Meaning:** To write or draw carelessly or quickly.  
+   - **Cambridge Meaning:** To write or draw in a careless or messy way.  
+   - **Sentence:** She scribbled a quick note before running out the door.  
+   - **Conversation:** A – What’s that on your paper? B – Just a scribble.  
+
+20. **Seaweed**  
+   - **Contextual Meaning:** Plants that grow in the sea.  
+   - **Cambridge Meaning:** A type of plant that grows in the sea.  
+   - **Sentence:** They collected seaweed from the shore.  
+   - **Conversation:** A – What are you gathering? B – Some seaweed for a recipe.  
+
+21. **Seemingly**  
+   - **Contextual Meaning:** According to what appears to be true, though it may not be.  
+   - **Cambridge Meaning:** Appearing to be something, though it may not actually be.  
+   - **Sentence:** He seemed seemingly calm, but he was nervous inside.  
+   - **Conversation:** A – He looks fine. B – Yes, but he’s seemingly calm.
+
+1. **Shimmer**  
+   - **Contextual Meaning:** To shine with a flickering or wavering light.  
+   - **Cambridge Meaning:** To shine with a soft, unsteady light.  
+   - **Sentence:** The water shimmered under the moonlight.  
+   - **Conversation:** A – Look at the lake! B – It shimmers so beautifully at night.  
+
+2. **Shrimp**  
+   - **Contextual Meaning:** A small sea creature, often eaten as food.  
+   - **Cambridge Meaning:** A small marine animal with a soft body and legs.  
+   - **Sentence:** He ordered shrimp for dinner.  
+   - **Conversation:** A – What did you order? B – Shrimp, I love seafood.  
+
+3. **Sip**  
+   - **Contextual Meaning:** To drink something in small amounts.  
+   - **Cambridge Meaning:** To drink a small amount of liquid.  
+   - **Sentence:** She took a small sip of her tea.  
+   - **Conversation:** A – How’s the tea? B – I just had a sip, it’s great.  
+
+4. **Slave**  
+   - **Contextual Meaning:** A person forced to work without pay.  
+   - **Cambridge Meaning:** A person who is forced to work for someone else without freedom.  
+   - **Sentence:** He was treated like a slave by his employer.  
+   - **Conversation:** A – That’s not fair. B – Yes, he was basically a slave.  
+
+5. **Sleepwalking**  
+   - **Contextual Meaning:** Walking or doing activities while asleep.  
+   - **Cambridge Meaning:** Walking or performing tasks while asleep.  
+   - **Sentence:** She woke up to find him sleepwalking in the kitchen.  
+   - **Conversation:** A – Why was he in the kitchen at night? B – He was sleepwalking.  
+
+6. **Smirk**  
+   - **Contextual Meaning:** A small, often smug smile.  
+   - **Cambridge Meaning:** A smile that suggests self-satisfaction or arrogance.  
+   - **Sentence:** He gave a smirk after winning the argument.  
+   - **Conversation:** A – Why are you smiling like that? B – Just a little smirk, nothing big.  
+
+7. **Spellbind**  
+   - **Contextual Meaning:** To fascinate or captivate someone completely.  
+   - **Cambridge Meaning:** To captivate or hold someone’s attention completely.  
+   - **Sentence:** The magician’s performance spellbound the audience.  
+   - **Conversation:** A – Was the show good? B – Yes, it completely spellbound me.  
+
+8. **Spill**  
+   - **Contextual Meaning:** To accidentally pour or scatter something.  
+   - **Cambridge Meaning:** To cause something to fall or flow out of its container.  
+   - **Sentence:** She spilled the coffee on the table.  
+   - **Conversation:** A – Be careful with the drink. B – Oops, I spilled it.  
+
+9. **Submerge**  
+   - **Contextual Meaning:** To put something underwater or deeply into something.  
+   - **Cambridge Meaning:** To go completely under the surface of water.  
+   - **Sentence:** He had to submerge the object in water for cleaning.  
+   - **Conversation:** A – What are you doing with that? B – I’m going to submerge it in water.  
+
+10. **Surfing**  
+    - **Contextual Meaning:** Riding waves on a surfboard.  
+    - **Cambridge Meaning:** The sport of riding on waves while standing on a board.  
+    - **Sentence:** He enjoys surfing at the beach.  
+    - **Conversation:** A – What’s your favorite hobby? B – Surfing is the best.  
+
+11. **Surge**  
+    - **Contextual Meaning:** A sudden increase or forward movement.  
+    - **Cambridge Meaning:** A powerful forward or upward movement.  
+    - **Sentence:** A surge of excitement went through the crowd.  
+    - **Conversation:** A – What happened to the crowd? B – There was a surge when the concert started.  
+
+12. **Trance**  
+    - **Contextual Meaning:** A state of deep concentration or unconsciousness.  
+    - **Cambridge Meaning:** A half-conscious state where someone is not fully aware of their surroundings.  
+    - **Sentence:** She was in a trance while listening to the music.  
+    - **Conversation:** A – Why isn’t she responding? B – She’s in a trance, lost in the music.  
+
+13. **Tummy**  
+    - **Contextual Meaning:** A casual or childlike term for stomach.  
+    - **Cambridge Meaning:** Informal word for stomach, often used with children.  
+    - **Sentence:** My tummy hurts after eating too much candy.  
+    - **Conversation:** A – Do you feel okay? B – My tummy hurts a little.  
+
+14. **Uncooperative**  
+    - **Contextual Meaning:** Not willing to work with others or follow instructions.  
+    - **Cambridge Meaning:** Not willing to help or follow requests.  
+    - **Sentence:** The child was uncooperative during the class.  
+    - **Conversation:** A – Why is she acting up? B – She’s being uncooperative.  
+
+15. **Unsettle**  
+    - **Contextual Meaning:** To make someone feel disturbed or uneasy.  
+    - **Cambridge Meaning:** To cause someone to feel worried or disturbed.  
+    - **Sentence:** The news of the storm unsettled everyone in the town.  
+    - **Conversation:** A – Did the news upset you? B – Yes, it really unsettled me.  
+
+16. **Wash Over**  
+    - **Contextual Meaning:** To affect or overcome someone with a feeling or emotion.  
+    - **Cambridge Meaning:** To be suddenly and powerfully felt.  
+    - **Sentence:** A wave of sadness washed over her after hearing the news.  
+    - **Conversation:** A – You look sad. B – Yes, a sadness just washed over me.  
